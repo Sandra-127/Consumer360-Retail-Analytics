@@ -1,205 +1,1001 @@
-Customer_ID,Name,City,Contact_Number,Email,Gender,Address
-C001,Tara Krishnan,Panchkula,+917193971454,mandrati@chad.org,Female,"65/04
-Dhawan Marg, Rajpur Sonarpur 590551"
-C002,Myra Edwin,Bulandshahr,08915420519,yshukla@hotmail.com,Female,"H.No. 78
-Sharaf Ganj
-Indore 928261"
-C003,Jayesh Lanka,Bilaspur,07400208126,kavyabarad@hotmail.com,Male,"H.No. 53, Krishna Ganj, Dhule-346480"
-C004,Tarini Bava,Miryalaguda,07232349928,vsen@hotmail.com,Male,"145
-Sibal, Rourkela-650344"
-C005,Hiran Kaul,Kottayam,02207644242,hanshkapur@buch.biz,Male,"34/168
-Sachar Street
-Bhatpara 002691"
-C006,Rania Mann,Karimnagar,+919363577179,evaswamy@biswas-sekhon.com,Female,"15/89, Dayal Chowk, Rohtak 586046"
-C007,Jayant Kamdar,Berhampore,+918576675504,pcontractor@hotmail.com,Male,"H.No. 501
-Goswami Path, Bhilwara 482554"
-C008,Veer Ray,Chinsurah,7138085704,uthkarshjohal@yahoo.com,Female,"H.No. 589, Gala Circle, Nandyal-774484"
-C009,Ritvik Borah,Madurai,1336765676,daliajivika@yahoo.com,Female,"28/64
-Lanka Marg, Ramgarh 141634"
-C010,Darshit Dave,Kanpur,01608833065,fateh26@hotmail.com,Male,"H.No. 21
-Singhal Path
-Hindupur 170985"
-C011,Lagan Kapoor,Orai,+916173563562,rsidhu@gmail.com,Female,"53/710, Tailor Ganj, Gorakhpur-030540"
-C012,Onkar Mangat,Bilaspur,+919921125624,oorjabassi@wali.com,Male,"H.No. 460, Sankar Ganj
-Tadipatri 227246"
-C013,Manikya Goswami,Mangalore,+912112817503,settytara@gmail.com,Female,"382, Banerjee Ganj
-Patna 002103"
-C014,Indrans Shukla,Panvel,2717671919,rajagopalfateh@dhingra.info,Female,"67/61, Balan Nagar
-Dehri-162882"
-C015,Romil Bajwa,Kolkata,+918664164910,taimurkashyap@halder.com,Female,"890, Sathe Circle
-Moradabad 800838"
-C016,Amani Ganesh,Tenali,08482992702,sumerkaur@yahoo.com,Male,"667
-Som Marg
-Rajkot 238865"
-C017,Advika Dhar,Gangtok,+912738556486,pmaster@deol.com,Male,"80/81, Varghese Chowk, Bidhannagar-928710"
-C018,Eva Vaidya,Nizamabad,+919080029661,drishya20@kapadia.com,Male,"34/29
-Manne Circle, Ahmedabad 929297"
-C019,Amira Sengupta,Danapur,+914513393592,purab20@dhar.com,Male,"77
-Dass Street
-Sasaram-948992"
-C020,Samaira Ganesh,Machilipatnam,01731643700,golesana@varty-gill.com,Male,"12, Khosla Chowk
-Gopalpur-059682"
-C021,Siya Talwar,Mehsana,+915555408563,hsunder@raman.info,Male,"H.No. 617, Brahmbhatt Path, Madanapalle-879728"
-C022,Ivana Rout,Khandwa,+913111711777,adhar@yahoo.com,Male,"24
-Babu Nagar, Khammam 703294"
-C023,Abram Sandhu,Bidhannagar,7196287267,sibalnitya@bhasin.net,Male,"H.No. 13
-Lad Road
-Bhiwandi 874382"
-C024,Jhanvi Chowdhury,Kavali,+910316756360,magarvardaniya@biswas.com,Female,"827, Shere Nagar, Mangalore 084058"
-C025,Ira Bava,Singrauli,+917406193950,rastogizain@yahoo.com,Female,"13/846, Bajaj Road, Nangloi Jat-882740"
-C026,Ira Chahal,Farrukhabad,+918716483532,ayeshathakkar@yahoo.com,Female,"37, Bhasin Path, Deoghar-816439"
-C027,Kashvi Sur,Serampore,03431035116,edwinkeya@gmail.com,Female,"34, Sanghvi Path
-Sikar 774265"
-C028,Hridaan Rajagopalan,Noida,02539728317,indrans49@thaman-chopra.net,Female,"01, Kapur Road, Agra-329913"
-C029,Badal Sathe,Haridwar,+912454360885,lavanya23@yahoo.com,Female,"H.No. 78, Suresh, Hapur-924072"
-C030,Vardaniya Contractor,Sambhal,09972300876,choprakavya@dugar.org,Male,"H.No. 904
-Dave Zila
-Pimpri-Chinchwad 244227"
-C031,Madhup Wable,Sasaram,0135745753,priyansh11@dua-tella.com,Female,"H.No. 69
-Shere
-Durgapur 474507"
-C032,Mannat Anand,Surat,1611365500,advika02@gmail.com,Male,"81/76, Khanna Nagar, Vasai-Virar-913106"
-C033,Suhana Kurian,Indore,5713958095,nbains@hotmail.com,Female,"56/734, Som Marg
-Bhimavaram 598548"
-C034,Hridaan Sood,Bhatpara,06652710577,drishyabalan@yahoo.com,Male,"H.No. 60, Deep Street
-Phusro 320629"
-C035,Ira Sarna,Vellore,+916899648374,zben@cherian.org,Male,"63, Baria Circle
-Siliguri 399443"
-C036,Biju Bajwa,Dibrugarh,+918721850071,choudhryrohan@hotmail.com,Female,"373
-Ganguly Street, Kurnool 041608"
-C037,Aradhya Kumar,Davanagere,1972392634,faiyaz10@yahoo.com,Male,"123, Sagar Road
-Dharmavaram-048740"
-C038,Yakshit Shah,Aizawl,02847411902,kthaker@gmail.com,Female,"H.No. 77
-Kalita Circle, Muzaffarnagar-768793"
-C039,Kaira Bahl,Kamarhati,+918804850295,keerzara@deshpande-sandhu.net,Male,"318
-Chokshi Road, Miryalaguda-997025"
-C040,Hazel Mangat,Pallavaram,+918810621361,aarnakrishna@chokshi.org,Female,"H.No. 07
-Lad Ganj, Jaipur-750706"
-C041,Rati Dhingra,Karaikudi,00625408216,nirvisekhon@yahoo.com,Male,"71/531
-Kibe Circle, Indore-971559"
-C042,Eshani Sharma,Ajmer,+916843169694,waliavaibhav@yahoo.com,Male,"85/523
-Raval Path, Bhind-188340"
-C043,Yasmin Sheth,Vellore,02544865070,aliavasa@chakraborty-koshy.com,Female,"80
-Vala Ganj, Dindigul-437862"
-C044,Seher Mann,Agra,09843970658,vardaniyakaran@krishnamurthy.com,Male,"H.No. 146, Ram Chowk
-Meerut-776118"
-C045,Divit Mahajan,Maheshtala,06789522856,krishchoudhury@kakar.com,Female,"25/685, Kannan Street, Erode-345276"
-C046,Tara Kannan,Guna,+917543187237,madanheer@gmail.com,Male,"H.No. 26
-Khurana, Kharagpur-183176"
-C047,Bhamini Ravi,Jorhat,+910798274175,ramachandranraghav@uppal-bhandari.com,Male,"56, Tak Street, Giridih 114150"
-C048,Aradhya Kale,Guntakal,07979926231,gkhanna@tripathi.biz,Male,"H.No. 60, Dhingra Marg
-Jalna 036174"
-C049,Aarush Balasubramanian,Imphal,01436426958,divijsheth@doshi.com,Female,"60, Loke Circle, Kadapa 528564"
-C050,Chirag Srinivas,Imphal,+911157961919,xmand@hotmail.com,Female,"80/683
-Gandhi Zila
-Amravati-523734"
-C051,Aradhya Batta,Kota,+911200621501,diyakapadia@gmail.com,Female,"25
-Vaidya Street, Deoghar-807286"
-C052,Vardaniya Apte,Dhanbad,05846932069,ysoman@thaman.com,Male,"H.No. 78, Tara Nagar
-Narasaraopet-260778"
-C053,Kismat Kapadia,Bharatpur,+918068004996,aniruddhbhatia@apte-ramaswamy.net,Female,"592, Sachar Circle
-Thoothukudi 513426"
-C054,Umang Ahuja,Bidhannagar,07271590783,saksham09@hotmail.com,Female,"06/32
-Kade
-Mehsana-061743"
-C055,Umang Luthra,Imphal,02007986762,manikya74@bava.com,Male,"H.No. 728, Datta Chowk
-Kumbakonam-380227"
-C056,Pihu Choudhury,Haridwar,9732644810,dhanuksastry@yahoo.com,Male,"H.No. 029, Grover
-Kadapa-492513"
-C057,Zain Hegde,Delhi,8736997123,faiyazsagar@thakur-chakrabarti.com,Female,"63/17
-Bal Circle
-Dehradun 365978"
-C058,Charvi Kanda,Guntakal,+919771604920,miraan05@gmail.com,Male,"25
-Srinivasan Ganj, Mira-Bhayandar-341661"
-C059,Nirvi Wagle,Kalyan-Dombivli,5869821393,mandalbhamini@gmail.com,Male,"77
-Walla Ganj, Ambarnath-616114"
-C060,Riya Wagle,Satara,00214103009,veercheema@khosla.com,Male,"H.No. 775
-Sha Circle
-Mumbai 290110"
-C061,Akarsh Ramesh,Kavali,04318554567,tsaini@johal-char.com,Female,"078, Ghose Nagar, Bikaner 211920"
-C062,Inaaya  Sarraf,Nagpur,+915915082470,kotharilakshay@cherian.com,Male,"78/08
-Dyal Ganj
-Satara-877913"
-C063,Arhaan Ahluwalia,Jamnagar,05287021467,pihu31@edwin-bawa.com,Male,"70/415
-Sarna Road, Junagadh-305320"
-C064,Indrajit Kale,Srikakulam,+916181058210,sabharwalmamooty@tella.com,Male,"191
-Bera Path, Bhimavaram 502334"
-C065,Badal Vora,North Dumdum,09753056313,kbobal@hotmail.com,Male,"413
-Ram Circle, Dhanbad-458174"
-C066,Eshani Buch,Malegaon,07436178055,traval@ratta-bumb.net,Female,"209
-Lad Street, Ludhiana-431855"
-C067,Eva Sankaran,Anand,0407409251,zdhar@gmail.com,Male,"538
-Doctor Street, Machilipatnam 092427"
-C068,Ritvik Garde,Kalyan-Dombivli,+913719858588,parinaaz89@varty-gaba.com,Male,"59/845, Kade Path, Barasat 294473"
-C069,Hunar Tripathi,Madhyamgram,01440411271,gabainaaya@chhabra.info,Female,"H.No. 637
-Walla Zila, Begusarai 750201"
-C070,Emir Gokhale,Bhatpara,3859920805,emirlala@sethi-kari.com,Male,"49/10
-Sengupta Marg, Madhyamgram 629284"
-C071,Purab Sheth,Tiruppur,08410472405,suhana89@yahoo.com,Male,"H.No. 12
-Dua Zila, Thrissur 303124"
-C072,Charvi Karnik,Hyderabad,7573085232,mishti69@cheema.info,Male,"99/790
-Subramanian Chowk, Bhagalpur 125926"
-C073,Zeeshan Tailor,Parbhani,+918037721297,vardaniya27@yahoo.com,Male,"63/76, Karan Street
-Kanpur 487263"
-C074,Vanya Apte,Sultan Pur Majra,+919182523205,gdoshi@gmail.com,Female,"509, Shah Road, Medininagar 212721"
-C075,Yashvi Bansal,Aligarh,+914513765238,indranilsastry@gmail.com,Female,"62, Dash Street
-Pondicherry-945886"
-C076,Oorja Dayal,Gaya,+916936516442,indrajit78@balay-ravi.com,Female,"49
-Sami
-Dibrugarh-768751"
-C077,Gokul Ahluwalia,Panchkula,+910413737551,khalsatarini@bora.com,Female,"645, Grewal Street, Bardhaman-621911"
-C078,Jivika Rajan,Bhubaneswar,3005266310,hunar08@hotmail.com,Female,"67
-Cheema
-Bardhaman 968232"
-C079,Vedika Sankaran,Bhilai,07606054646,advikakrishnan@hotmail.com,Female,"89
-Srivastava Circle
-Solapur 947664"
-C080,Mohanlal Garde,Bhopal,08448890371,shroffzaina@hotmail.com,Male,"80/990
-Yogi Road
-Anantapuram-218176"
-C081,Kaira Ramachandran,Ratlam,4987395025,baradnirvi@yahoo.com,Male,"H.No. 717
-Warrior Circle
-Etawah-124622"
-C082,Anya Chaudhari,Ahmednagar,0813770782,subramanianojas@gmail.com,Female,"64/161, Kaur Ganj, Kadapa 257529"
-C083,Aaryahi Sodhi,Raurkela Industrial Township,+912690208110,devanromil@hotmail.com,Male,"H.No. 256
-Sami Street, Lucknow-283322"
-C084,Anahita Shankar,Tiruchirappalli,+912205603376,jchada@hotmail.com,Male,"537
-Bahl Nagar
-Tinsukia 000008"
-C085,Bhamini Johal,Raipur,+913129106402,prisha85@gaba.com,Male,"53/88, Soni Chowk
-Etawah-422592"
-C086,Ivana Amble,Purnia,09628920018,sundarampari@garg-khurana.biz,Female,"54/216, Tak Ganj
-Mangalore 180959"
-C087,Rania Bhatt,North Dumdum,2112404207,dishanithaker@dey-choudhry.info,Female,"H.No. 782
-Dey Circle
-Jalna 640789"
-C088,Shalv Kulkarni,Khora,+919113488461,uthkarsh12@yahoo.com,Female,"H.No. 82, Kala Road, Moradabad-953360"
-C089,Oorja Dey,Nellore,+917264144428,shanaya87@gmail.com,Female,"91, Handa Circle
-Baranagar-841504"
-C090,Drishya De,Anantapuram,03327374841,kakarazad@sura.com,Female,"12, Wali Ganj
-Secunderabad 891177"
-C091,Adira Rajan,New Delhi,+915525478357,indrans79@gmail.com,Female,"H.No. 85
-Bora Road
-Rajpur Sonarpur-156686"
-C092,Zoya Mani,Dibrugarh,+918918356963,obose@gmail.com,Male,"H.No. 319
-Mandal Ganj, Vijayawada-709890"
-C093,Mamooty Bawa,Tumkur,+912783169130,veer55@chaudhari.net,Male,"499
-Apte Street
-Gorakhpur 610533"
-C094,Raghav Babu,Deoghar,+914638480067,shenoynirvaan@chawla.com,Female,"83/108
-Goyal Chowk
-Bhusawal-294899"
-C095,Mahika Cherian,Warangal,2769457161,pgala@yahoo.com,Female,"765
-Srinivasan Ganj
-Gangtok-960690"
-C096,Kavya Reddy,Medininagar,+918680724565,balakrishnanzaina@gmail.com,Male,"88/80
-Sheth Chowk, Dewas 052601"
-C097,Nakul Randhawa,Sri Ganganagar,0456900126,tlall@ramanathan.info,Female,"376
-Tiwari Zila, Munger-178543"
-C098,Navya Golla,Cuttack,+914461213936,tellamadhup@bhatt-bhasin.info,Male,"910
-Rastogi Circle, Tiruppur 102771"
-C099,Ranbir Loyal,Dhanbad,+913621448305,reyanshghosh@rajagopalan.com,Female,"496
-Kumer Zila
-Raurkela Industrial Township-618990"
-C100,Pranay Chaudhary,Phagwara,+919478540370,prisha77@loke.org,Female,"H.No. 58
-Sem Street, Amravati 316691"
+Order_ID,Customer_ID,Product_ID,Quantity,Order_Date,Order_Time,Delivery_Date,Delivery_Time,Location,Occasion,Month Name,Hour(Order Time),diff_order_delivery,Hour(Delivery Time),Price (INR),Order_Amount,Day_of_order,Day_of_delivery,Revenue
+5,C078,58,2,11-02-2023,19:44:48,18-02-2023,11:08:52,Rajkot,Valentine's Day,February,19,7,11,1492,2984,Saturday,Saturday,2984
+56,C095,58,5,08-02-2023,12:11:48,13-02-2023,18:51:59,Danapur,Valentine's Day,February,12,5,18,1492,7460,Wednesday,Monday,7460
+37,C096,19,5,10-02-2023,11:01:04,15-02-2023,21:19:36,Katni,Valentine's Day,February,11,5,21,1234,6170,Friday,Wednesday,6170
+20,C011,52,1,11-02-2023,14:36:57,14-02-2023,01:34:16,Madurai,Valentine's Day,February,14,3,1,236,236,Saturday,Tuesday,236
+43,C046,49,3,12-02-2023,22:31:16,16-02-2023,02:47:47,Sambalpur,Valentine's Day,February,22,4,2,903,2709,Sunday,Thursday,2709
+78,C062,11,2,04-02-2023,13:00:09,08-02-2023,20:31:15,Pallavaram,Valentine's Day,February,13,4,20,1096,2192,Saturday,Wednesday,2192
+87,C055,2,5,04-02-2023,13:17:21,11-02-2023,23:06:36,Malda,Valentine's Day,February,13,7,23,441,2205,Saturday,Saturday,2205
+89,C060,3,5,12-02-2023,22:56:52,13-02-2023,14:41:41,Aurangabad,Valentine's Day,February,22,1,14,1534,7670,Sunday,Monday,7670
+121,C048,33,3,05-02-2023,02:18:55,09-02-2023,07:29:31,Guntur,Valentine's Day,February,2,4,7,314,942,Sunday,Thursday,942
+126,C040,19,5,04-02-2023,02:28:24,13-02-2023,13:16:38,Dharmavaram,Valentine's Day,February,2,9,13,1234,6170,Saturday,Monday,6170
+131,C078,3,5,04-02-2023,20:30:50,11-02-2023,08:29:03,Satara,Valentine's Day,February,20,7,8,1534,7670,Saturday,Saturday,7670
+132,C045,49,4,04-02-2023,23:23:41,13-02-2023,19:55:48,Thoothukudi,Valentine's Day,February,23,9,19,903,3612,Saturday,Monday,3612
+146,C030,52,5,13-02-2023,18:23:55,16-02-2023,04:07:37,Vijayawada,Valentine's Day,February,18,3,4,236,1180,Monday,Thursday,1180
+161,C054,58,3,13-02-2023,03:08:06,14-02-2023,23:12:01,Karaikudi,Valentine's Day,February,3,1,23,1492,4476,Monday,Tuesday,4476
+169,C051,3,2,06-02-2023,10:28:57,16-02-2023,01:26:19,Shivpuri,Valentine's Day,February,10,10,1,1534,3068,Monday,Thursday,3068
+173,C072,58,2,07-02-2023,23:15:37,13-02-2023,01:51:53,Deoghar,Valentine's Day,February,23,6,1,1492,2984,Tuesday,Monday,2984
+182,C070,2,1,08-02-2023,23:21:30,15-02-2023,06:07:33,Chennai,Valentine's Day,February,23,7,6,441,441,Wednesday,Wednesday,441
+184,C027,52,3,11-02-2023,21:34:53,20-02-2023,05:00:29,Dharmavaram,Valentine's Day,February,21,9,5,236,708,Saturday,Monday,708
+187,C008,49,5,11-02-2023,21:10:41,16-02-2023,09:34:09,Anantapur,Valentine's Day,February,21,5,9,903,4515,Saturday,Thursday,4515
+194,C030,58,4,08-02-2023,11:41:29,09-02-2023,04:54:30,Pondicherry,Valentine's Day,February,11,1,4,1492,5968,Wednesday,Thursday,5968
+206,C099,68,3,11-02-2023,22:12:16,13-02-2023,12:42:01,Ulhasnagar,Valentine's Day,February,22,2,12,597,1791,Saturday,Monday,1791
+223,C051,49,2,05-02-2023,08:44:25,13-02-2023,10:17:59,Bhalswa Jahangir Pur,Valentine's Day,February,8,8,10,903,1806,Sunday,Monday,1806
+225,C093,52,5,05-02-2023,12:12:26,06-02-2023,18:01:06,Arrah,Valentine's Day,February,12,1,18,236,1180,Sunday,Monday,1180
+229,C079,49,3,11-02-2023,20:55:38,20-02-2023,09:32:50,Junagadh,Valentine's Day,February,20,9,9,903,2709,Saturday,Monday,2709
+243,C043,3,1,05-02-2023,20:50:37,10-02-2023,12:30:54,Siwan,Valentine's Day,February,20,5,12,1534,1534,Sunday,Friday,1534
+248,C044,19,5,08-02-2023,08:43:41,10-02-2023,04:15:01,Alwar,Valentine's Day,February,8,2,4,1234,6170,Wednesday,Friday,6170
+253,C010,68,2,12-02-2023,14:24:46,14-02-2023,05:39:27,Bangalore,Valentine's Day,February,14,2,5,597,1194,Sunday,Tuesday,1194
+262,C038,49,3,07-02-2023,08:05:16,11-02-2023,01:06:57,Tirunelveli,Valentine's Day,February,8,4,1,903,2709,Tuesday,Saturday,2709
+264,C010,52,3,09-02-2023,05:35:19,18-02-2023,15:43:46,Asansol,Valentine's Day,February,5,9,15,236,708,Thursday,Saturday,708
+265,C060,58,1,10-02-2023,21:17:18,18-02-2023,06:28:33,Gudivada,Valentine's Day,February,21,8,6,1492,1492,Friday,Saturday,1492
+280,C003,19,3,07-02-2023,17:44:47,12-02-2023,16:31:05,Mangalore,Valentine's Day,February,17,5,16,1234,3702,Tuesday,Sunday,3702
+291,C072,49,2,10-02-2023,00:12:40,11-02-2023,22:52:51,Nadiad,Valentine's Day,February,0,1,22,903,1806,Friday,Saturday,1806
+298,C057,3,1,11-02-2023,23:06:29,12-02-2023,02:17:43,Bahraich,Valentine's Day,February,23,1,2,1534,1534,Saturday,Sunday,1534
+306,C085,49,4,04-02-2023,11:35:51,12-02-2023,06:38:00,Bellary,Valentine's Day,February,11,8,6,903,3612,Saturday,Sunday,3612
+307,C042,3,1,04-02-2023,21:37:54,08-02-2023,11:28:10,Durgapur,Valentine's Day,February,21,4,11,1534,1534,Saturday,Wednesday,1534
+316,C048,2,5,11-02-2023,21:35:05,15-02-2023,07:21:50,Muzaffarnagar,Valentine's Day,February,21,4,7,441,2205,Saturday,Wednesday,2205
+350,C020,19,3,13-02-2023,12:22:57,22-02-2023,16:26:10,Kolkata,Valentine's Day,February,12,9,16,1234,3702,Monday,Wednesday,3702
+366,C033,3,3,08-02-2023,23:15:47,16-02-2023,10:51:38,Kolkata,Valentine's Day,February,23,8,10,1534,4602,Wednesday,Thursday,4602
+399,C008,68,1,08-02-2023,06:21:47,15-02-2023,07:08:14,Bareilly,Valentine's Day,February,6,7,7,597,597,Wednesday,Wednesday,597
+405,C033,49,1,10-02-2023,23:05:14,18-02-2023,14:47:38,Guwahati,Valentine's Day,February,23,8,14,903,903,Friday,Saturday,903
+416,C006,58,5,12-02-2023,16:41:02,17-02-2023,09:37:01,Saharanpur,Valentine's Day,February,16,5,9,1492,7460,Sunday,Friday,7460
+423,C067,19,1,11-02-2023,16:46:58,17-02-2023,00:10:05,Alappuzha,Valentine's Day,February,16,6,0,1234,1234,Saturday,Friday,1234
+426,C073,2,2,13-02-2023,22:59:54,17-02-2023,13:51:00,Kharagpur,Valentine's Day,February,22,4,13,441,882,Monday,Friday,882
+442,C023,3,3,08-02-2023,18:03:20,15-02-2023,08:05:39,Khandwa,Valentine's Day,February,18,7,8,1534,4602,Wednesday,Wednesday,4602
+443,C046,49,3,04-02-2023,22:22:19,13-02-2023,02:16:00,Secunderabad,Valentine's Day,February,22,9,2,903,2709,Saturday,Monday,2709
+446,C079,33,5,12-02-2023,02:54:04,15-02-2023,11:03:28,Bokaro,Valentine's Day,February,2,3,11,314,1570,Sunday,Wednesday,1570
+449,C045,49,4,13-02-2023,03:18:26,16-02-2023,10:09:41,Ichalkaranji,Valentine's Day,February,3,3,10,903,3612,Monday,Thursday,3612
+451,C079,33,5,07-02-2023,00:16:52,13-02-2023,21:10:57,Ujjain,Valentine's Day,February,0,6,21,314,1570,Tuesday,Monday,1570
+454,C088,3,2,07-02-2023,23:26:49,09-02-2023,01:21:56,Suryapet,Valentine's Day,February,23,2,1,1534,3068,Tuesday,Thursday,3068
+456,C071,33,2,12-02-2023,22:51:39,15-02-2023,22:14:06,Nangloi Jat,Valentine's Day,February,22,3,22,314,628,Sunday,Wednesday,628
+477,C099,33,4,12-02-2023,17:18:09,14-02-2023,03:11:52,Gangtok,Valentine's Day,February,17,2,3,314,1256,Sunday,Tuesday,1256
+478,C003,11,5,08-02-2023,01:11:21,09-02-2023,09:50:19,Ambarnath,Valentine's Day,February,1,1,9,1096,5480,Wednesday,Thursday,5480
+479,C071,11,1,07-02-2023,17:48:21,11-02-2023,10:48:13,Ghaziabad,Valentine's Day,February,17,4,10,1096,1096,Tuesday,Saturday,1096
+490,C075,2,1,12-02-2023,12:28:03,14-02-2023,12:27:19,Eluru,Valentine's Day,February,12,2,12,441,441,Sunday,Tuesday,441
+492,C047,33,2,04-02-2023,13:54:25,13-02-2023,12:04:33,Salem,Valentine's Day,February,13,9,12,314,628,Saturday,Monday,628
+493,C035,11,1,05-02-2023,22:11:24,06-02-2023,15:43:11,Gopalpur,Valentine's Day,February,22,1,15,1096,1096,Sunday,Monday,1096
+496,C021,11,4,09-02-2023,14:31:57,16-02-2023,13:05:41,Sambhal,Valentine's Day,February,14,7,13,1096,4384,Thursday,Thursday,4384
+498,C100,19,4,13-02-2023,21:34:44,20-02-2023,21:14:24,Bhusawal,Valentine's Day,February,21,7,21,1234,4936,Monday,Monday,4936
+519,C014,52,4,07-02-2023,23:10:38,15-02-2023,06:40:20,Hindupur,Valentine's Day,February,23,8,6,236,944,Tuesday,Wednesday,944
+521,C062,33,5,04-02-2023,21:00:17,08-02-2023,02:28:38,Noida,Valentine's Day,February,21,4,2,314,1570,Saturday,Wednesday,1570
+527,C036,33,3,11-02-2023,12:51:40,19-02-2023,15:58:07,Bardhaman,Valentine's Day,February,12,8,15,314,942,Saturday,Sunday,942
+561,C099,49,5,12-02-2023,12:24:35,21-02-2023,17:23:34,Ghaziabad,Valentine's Day,February,12,9,17,903,4515,Sunday,Tuesday,4515
+563,C077,58,5,11-02-2023,11:43:18,19-02-2023,05:04:29,Jorhat,Valentine's Day,February,11,8,5,1492,7460,Saturday,Sunday,7460
+573,C040,3,5,08-02-2023,02:52:06,14-02-2023,02:57:06,Thane,Valentine's Day,February,2,6,2,1534,7670,Wednesday,Tuesday,7670
+575,C076,49,2,06-02-2023,13:24:32,09-02-2023,14:55:08,Kota,Valentine's Day,February,13,3,14,903,1806,Monday,Thursday,1806
+582,C019,3,4,04-02-2023,18:30:31,05-02-2023,19:16:41,Latur,Valentine's Day,February,18,1,19,1534,6136,Saturday,Sunday,6136
+588,C056,49,5,04-02-2023,06:37:00,05-02-2023,21:21:57,Kishanganj,Valentine's Day,February,6,1,21,903,4515,Saturday,Sunday,4515
+593,C016,58,3,05-02-2023,17:30:40,12-02-2023,09:34:03,Bhilai,Valentine's Day,February,17,7,9,1492,4476,Sunday,Sunday,4476
+606,C047,3,5,08-02-2023,02:13:13,17-02-2023,07:31:32,Sambalpur,Valentine's Day,February,2,9,7,1534,7670,Wednesday,Friday,7670
+628,C061,11,5,10-02-2023,21:50:27,13-02-2023,21:07:46,Ongole,Valentine's Day,February,21,3,21,1096,5480,Friday,Monday,5480
+633,C031,52,5,10-02-2023,14:44:42,15-02-2023,05:12:46,Surat,Valentine's Day,February,14,5,5,236,1180,Friday,Wednesday,1180
+651,C017,11,4,13-02-2023,02:16:28,19-02-2023,11:55:54,Panihati,Valentine's Day,February,2,6,11,1096,4384,Monday,Sunday,4384
+656,C032,68,2,05-02-2023,18:34:41,06-02-2023,04:46:00,Dehri,Valentine's Day,February,18,1,4,597,1194,Sunday,Monday,1194
+659,C048,19,5,05-02-2023,17:44:56,12-02-2023,22:37:43,Silchar,Valentine's Day,February,17,7,22,1234,6170,Sunday,Sunday,6170
+660,C053,58,3,11-02-2023,06:08:46,21-02-2023,20:48:35,Amravati,Valentine's Day,February,6,10,20,1492,4476,Saturday,Tuesday,4476
+669,C035,68,5,10-02-2023,07:11:50,17-02-2023,09:56:42,Ludhiana,Valentine's Day,February,7,7,9,597,2985,Friday,Friday,2985
+673,C008,33,3,04-02-2023,05:54:49,07-02-2023,04:25:38,Gaya,Valentine's Day,February,5,3,4,314,942,Saturday,Tuesday,942
+674,C065,68,2,07-02-2023,09:41:25,16-02-2023,23:40:25,Chennai,Valentine's Day,February,9,9,23,597,1194,Tuesday,Thursday,1194
+711,C093,68,3,04-02-2023,17:15:28,06-02-2023,14:50:53,Tiruppur,Valentine's Day,February,17,2,14,597,1791,Saturday,Monday,1791
+718,C028,49,1,09-02-2023,05:13:35,13-02-2023,06:22:05,Jabalpur,Valentine's Day,February,5,4,6,903,903,Thursday,Monday,903
+721,C022,3,5,07-02-2023,03:28:21,17-02-2023,18:28:02,Vasai-Virar,Valentine's Day,February,3,10,18,1534,7670,Tuesday,Friday,7670
+728,C073,52,2,08-02-2023,13:45:46,11-02-2023,16:07:16,Panchkula,Valentine's Day,February,13,3,16,236,472,Wednesday,Saturday,472
+734,C008,49,3,11-02-2023,11:44:37,14-02-2023,09:06:06,Morena,Valentine's Day,February,11,3,9,903,2709,Saturday,Tuesday,2709
+750,C022,19,3,08-02-2023,09:22:41,14-02-2023,22:24:42,Chapra,Valentine's Day,February,9,6,22,1234,3702,Wednesday,Tuesday,3702
+752,C034,3,5,10-02-2023,11:38:01,12-02-2023,10:35:58,Bally,Valentine's Day,February,11,2,10,1534,7670,Friday,Sunday,7670
+757,C001,2,3,12-02-2023,10:23:53,20-02-2023,04:40:28,Shivpuri,Valentine's Day,February,10,8,4,441,1323,Sunday,Monday,1323
+779,C052,3,1,06-02-2023,06:26:37,08-02-2023,02:51:51,Durgapur,Valentine's Day,February,6,2,2,1534,1534,Monday,Wednesday,1534
+780,C070,33,2,10-02-2023,11:30:51,13-02-2023,04:28:25,Bikaner,Valentine's Day,February,11,3,4,314,628,Friday,Monday,628
+789,C048,58,4,08-02-2023,18:19:36,15-02-2023,08:00:31,Bally,Valentine's Day,February,18,7,8,1492,5968,Wednesday,Wednesday,5968
+793,C095,58,5,05-02-2023,17:37:16,15-02-2023,01:28:17,Mirzapur,Valentine's Day,February,17,10,1,1492,7460,Sunday,Wednesday,7460
+804,C009,3,3,05-02-2023,05:37:18,07-02-2023,01:58:08,Deoghar,Valentine's Day,February,5,2,1,1534,4602,Sunday,Tuesday,4602
+838,C003,19,3,09-02-2023,10:18:01,17-02-2023,06:09:40,Sirsa,Valentine's Day,February,10,8,6,1234,3702,Thursday,Friday,3702
+843,C007,68,1,11-02-2023,21:46:03,12-02-2023,19:27:09,Bikaner,Valentine's Day,February,21,1,19,597,597,Saturday,Sunday,597
+864,C033,11,1,11-02-2023,19:34:22,15-02-2023,08:05:38,Lucknow,Valentine's Day,February,19,4,8,1096,1096,Saturday,Wednesday,1096
+865,C032,19,1,12-02-2023,18:09:14,13-02-2023,06:38:00,Kumbakonam,Valentine's Day,February,18,1,6,1234,1234,Sunday,Monday,1234
+869,C032,3,5,06-02-2023,10:03:19,11-02-2023,23:16:28,Hazaribagh,Valentine's Day,February,10,5,23,1534,7670,Monday,Saturday,7670
+874,C010,68,1,11-02-2023,12:42:30,21-02-2023,17:35:44,Ramagundam,Valentine's Day,February,12,10,17,597,597,Saturday,Tuesday,597
+879,C092,33,2,07-02-2023,05:34:34,10-02-2023,11:27:38,Kishanganj,Valentine's Day,February,5,3,11,314,628,Tuesday,Friday,628
+891,C027,58,2,08-02-2023,14:56:43,16-02-2023,23:54:45,Shivpuri,Valentine's Day,February,14,8,23,1492,2984,Wednesday,Thursday,2984
+892,C025,11,4,06-02-2023,18:33:04,07-02-2023,01:26:54,Thrissur,Valentine's Day,February,18,1,1,1096,4384,Monday,Tuesday,4384
+898,C018,52,1,09-02-2023,06:18:52,13-02-2023,23:13:42,Kadapa,Valentine's Day,February,6,4,23,236,236,Thursday,Monday,236
+904,C013,2,4,12-02-2023,22:05:48,17-02-2023,01:05:37,Mira-Bhayandar,Valentine's Day,February,22,5,1,441,1764,Sunday,Friday,1764
+905,C080,58,1,10-02-2023,19:31:35,16-02-2023,08:32:14,Ichalkaranji,Valentine's Day,February,19,6,8,1492,1492,Friday,Thursday,1492
+906,C100,49,3,06-02-2023,01:16:20,16-02-2023,09:14:48,Jalandhar,Valentine's Day,February,1,10,9,903,2709,Monday,Thursday,2709
+914,C048,33,4,09-02-2023,14:52:18,14-02-2023,09:47:20,Sambhal,Valentine's Day,February,14,5,9,314,1256,Thursday,Tuesday,1256
+916,C063,33,2,06-02-2023,04:23:09,14-02-2023,21:19:24,Darbhanga,Valentine's Day,February,4,8,21,314,628,Monday,Tuesday,628
+918,C083,19,2,12-02-2023,18:13:06,21-02-2023,22:02:06,Pali,Valentine's Day,February,18,9,22,1234,2468,Sunday,Tuesday,2468
+952,C027,49,4,12-02-2023,02:48:07,22-02-2023,09:19:09,Bidar,Valentine's Day,February,2,10,9,903,3612,Sunday,Wednesday,3612
+967,C041,68,4,12-02-2023,00:21:23,20-02-2023,18:29:48,Siliguri,Valentine's Day,February,0,8,18,597,2388,Sunday,Monday,2388
+989,C017,52,3,06-02-2023,08:11:27,15-02-2023,02:00:04,Bidhannagar,Valentine's Day,February,8,9,2,236,708,Monday,Wednesday,708
+994,C004,68,2,13-02-2023,22:44:36,21-02-2023,06:45:30,Chandigarh,Valentine's Day,February,22,8,6,597,1194,Monday,Tuesday,1194
+997,C098,19,2,04-02-2023,04:28:27,10-02-2023,11:50:24,Vasai-Virar,Valentine's Day,February,4,6,11,1234,2468,Saturday,Friday,2468
+999,C054,52,2,06-02-2023,22:40:49,10-02-2023,12:29:21,Miryalaguda,Valentine's Day,February,22,4,12,236,472,Monday,Friday,472
+1,C037,67,5,24-02-2023,23:48:13,05-03-2023,07:27:10,Bardhaman,Anniversary,February,23,9,7,1374,6870,Friday,Sunday,6870
+55,C040,5,1,08-02-2023,08:01:07,13-02-2023,07:42:58,Kottayam,All Occasions,February,8,5,7,1444,1444,Wednesday,Monday,1444
+31,C029,7,5,28-02-2023,13:13:22,03-03-2023,23:35:49,Nandyal,Holi,February,13,3,23,409,2045,Tuesday,Friday,2045
+47,C013,7,5,26-02-2023,13:04:28,28-02-2023,06:00:20,Jaipur,Holi,February,13,2,6,409,2045,Sunday,Tuesday,2045
+10,C099,56,3,26-02-2023,00:17:26,08-03-2023,20:47:43,Ambala,Anniversary,February,0,10,20,1272,3816,Sunday,Wednesday,3816
+13,C024,20,3,24-02-2023,16:47:16,04-03-2023,02:27:37,Gandhidham,Anniversary,February,16,8,2,697,2091,Friday,Saturday,2091
+16,C013,20,3,16-02-2023,15:06:11,20-02-2023,22:14:21,Khammam,Anniversary,February,15,4,22,697,2091,Thursday,Monday,2091
+21,C090,32,1,09-02-2023,11:20:52,12-02-2023,11:36:26,Bathinda,Birthday,February,11,3,11,1792,1792,Thursday,Sunday,1792
+42,C080,35,1,26-02-2023,00:08:38,07-03-2023,17:18:28,Faridabad,Holi,February,0,9,17,1865,1865,Sunday,Tuesday,1865
+57,C090,35,5,26-02-2023,08:00:15,06-03-2023,12:27:32,Ahmedabad,Holi,February,8,8,12,1865,9325,Sunday,Monday,9325
+66,C017,35,5,26-02-2023,21:00:44,27-02-2023,06:25:58,Munger,Holi,February,21,1,6,1865,9325,Sunday,Monday,9325
+81,C053,1,5,22-02-2023,18:29:21,03-03-2023,07:09:32,Kalyan-Dombivli,All Occasions,February,18,9,7,1935,9675,Wednesday,Friday,9675
+91,C061,6,2,27-02-2023,13:52:56,05-03-2023,13:23:25,Mahbubnagar,Holi,February,13,6,13,1112,2224,Monday,Sunday,2224
+103,C097,18,3,01-02-2023,12:24:59,08-02-2023,22:51:39,Ichalkaranji,Birthday,February,12,7,22,781,2343,Wednesday,Wednesday,2343
+105,C063,36,2,11-02-2023,02:57:36,21-02-2023,01:34:10,Guna,Birthday,February,2,10,1,203,406,Saturday,Tuesday,406
+108,C012,26,4,27-02-2023,09:03:26,05-03-2023,08:03:05,Berhampore,Holi,February,9,6,8,289,1156,Monday,Sunday,1156
+109,C074,50,5,27-02-2023,15:35:48,01-03-2023,08:38:56,Gandhidham,Holi,February,15,2,8,422,2110,Monday,Wednesday,2110
+114,C009,40,4,03-02-2023,16:03:15,07-02-2023,02:22:48,Kirari Suleman Nagar,Anniversary,February,16,4,2,1923,7692,Friday,Tuesday,7692
+118,C035,62,1,27-02-2023,14:30:59,05-03-2023,10:32:52,Bhavnagar,Holi,February,14,6,10,1356,1356,Monday,Sunday,1356
+129,C051,67,2,17-02-2023,05:21:30,20-02-2023,08:17:32,Ramgarh,Anniversary,February,5,3,8,1374,2748,Friday,Monday,2748
+141,C062,35,4,28-02-2023,03:55:06,10-03-2023,02:31:56,Allahabad,Holi,February,3,10,2,1865,7460,Tuesday,Friday,7460
+143,C087,66,2,28-02-2023,07:37:18,10-03-2023,14:49:54,Ramagundam,Holi,February,7,10,14,610,1220,Tuesday,Friday,1220
+152,C084,51,2,27-02-2023,10:48:51,05-03-2023,16:39:22,Tiruppur,All Occasions,February,10,6,16,1084,2168,Monday,Sunday,2168
+156,C030,61,2,09-02-2023,08:20:50,12-02-2023,10:49:14,Ozhukarai,Anniversary,February,8,3,10,810,1620,Thursday,Sunday,1620
+157,C019,35,3,26-02-2023,12:44:17,06-03-2023,11:35:44,Thiruvananthapuram,Holi,February,12,8,11,1865,5595,Sunday,Monday,5595
+163,C083,54,4,17-02-2023,19:50:10,25-02-2023,10:20:16,Ujjain,Anniversary,February,19,8,10,1236,4944,Friday,Saturday,4944
+179,C078,47,3,28-02-2023,15:16:02,10-03-2023,14:31:07,Vijayanagaram,Holi,February,15,10,14,1638,4914,Tuesday,Friday,4914
+212,C093,7,2,28-02-2023,07:14:40,05-03-2023,20:01:45,Ozhukarai,Holi,February,7,5,20,409,818,Tuesday,Sunday,818
+213,C022,42,5,14-02-2023,08:26:18,24-02-2023,08:58:11,Dehradun,All Occasions,February,8,10,8,1744,8720,Tuesday,Friday,8720
+222,C099,6,5,26-02-2023,05:57:25,07-03-2023,18:20:50,Guntur,Holi,February,5,9,18,1112,5560,Sunday,Tuesday,5560
+235,C071,56,2,26-02-2023,14:26:46,03-03-2023,23:26:23,Bhilai,Anniversary,February,14,5,23,1272,2544,Sunday,Friday,2544
+246,C017,69,5,28-02-2023,23:24:33,08-03-2023,00:38:49,Agra,Holi,February,23,8,0,998,4990,Tuesday,Wednesday,4990
+251,C051,7,4,28-02-2023,00:31:48,02-03-2023,00:19:44,Khora,Holi,February,0,2,0,409,1636,Tuesday,Thursday,1636
+252,C040,69,2,26-02-2023,05:41:28,28-02-2023,08:11:16,Nandyal,Holi,February,5,2,8,998,1996,Sunday,Tuesday,1996
+285,C082,7,5,26-02-2023,17:26:44,01-03-2023,12:52:20,Tirunelveli,Holi,February,17,3,12,409,2045,Sunday,Wednesday,2045
+297,C047,13,3,28-02-2023,20:15:29,05-03-2023,20:52:27,Phagwara,Holi,February,20,5,20,1141,3423,Tuesday,Sunday,3423
+301,C070,6,3,27-02-2023,06:24:22,04-03-2023,16:52:16,Kota,Holi,February,6,5,16,1112,3336,Monday,Saturday,3336
+323,C013,23,2,09-02-2023,18:13:04,10-02-2023,10:22:35,Khora,Anniversary,February,18,1,10,1098,2196,Thursday,Friday,2196
+324,C073,14,2,02-02-2023,18:47:28,11-02-2023,15:34:54,North Dumdum,Birthday,February,18,9,15,1915,3830,Thursday,Saturday,3830
+333,C100,22,5,09-02-2023,06:19:15,10-02-2023,03:46:29,South Dumdum,All Occasions,February,6,1,3,1639,8195,Thursday,Friday,8195
+354,C087,13,5,26-02-2023,17:25:28,06-03-2023,09:43:32,Narasaraopet,Holi,February,17,8,9,1141,5705,Sunday,Monday,5705
+359,C052,47,2,28-02-2023,12:13:36,05-03-2023,20:31:30,Nagpur,Holi,February,12,5,20,1638,3276,Tuesday,Sunday,3276
+375,C091,46,1,11-02-2023,04:16:25,20-02-2023,19:37:38,Mysore,Anniversary,February,4,9,19,758,758,Saturday,Monday,758
+407,C074,69,3,26-02-2023,08:52:11,28-02-2023,04:09:44,Jamalpur,Holi,February,8,2,4,998,2994,Sunday,Tuesday,2994
+409,C049,50,4,26-02-2023,17:43:59,28-02-2023,19:44:57,Khammam,Holi,February,17,2,19,422,1688,Sunday,Tuesday,1688
+414,C034,7,4,28-02-2023,21:18:11,07-03-2023,01:07:31,Raurkela Industrial Township,Holi,February,21,7,1,409,1636,Tuesday,Tuesday,1636
+420,C039,6,3,27-02-2023,08:36:20,28-02-2023,00:07:29,Kota,Holi,February,8,1,0,1112,3336,Monday,Tuesday,3336
+433,C068,7,5,26-02-2023,23:33:51,02-03-2023,04:19:56,Amravati,Holi,February,23,4,4,409,2045,Sunday,Thursday,2045
+441,C052,26,2,26-02-2023,11:23:56,06-03-2023,16:38:50,Kurnool,Holi,February,11,8,16,289,578,Sunday,Monday,578
+447,C032,47,4,27-02-2023,02:45:34,04-03-2023,15:04:56,Bhilwara,Holi,February,2,5,15,1638,6552,Monday,Saturday,6552
+470,C031,47,5,28-02-2023,17:34:04,06-03-2023,15:29:29,Bhavnagar,Holi,February,17,6,15,1638,8190,Tuesday,Monday,8190
+474,C051,1,4,07-02-2023,06:31:59,14-02-2023,02:00:07,Dibrugarh,All Occasions,February,6,7,2,1935,7740,Tuesday,Tuesday,7740
+494,C082,7,4,28-02-2023,03:11:22,08-03-2023,19:06:48,Rewa,Holi,February,3,8,19,409,1636,Tuesday,Wednesday,1636
+508,C035,69,1,26-02-2023,17:29:28,04-03-2023,07:11:06,Varanasi,Holi,February,17,6,7,998,998,Sunday,Saturday,998
+511,C055,47,2,27-02-2023,12:58:05,04-03-2023,00:46:11,Dibrugarh,Holi,February,12,5,0,1638,3276,Monday,Saturday,3276
+522,C011,50,3,27-02-2023,21:04:28,08-03-2023,01:34:50,Avadi,Holi,February,21,9,1,422,1266,Monday,Wednesday,1266
+543,C023,51,4,12-02-2023,21:51:10,17-02-2023,11:53:09,Saharanpur,All Occasions,February,21,5,11,1084,4336,Sunday,Friday,4336
+546,C064,25,3,02-02-2023,22:04:53,11-02-2023,10:00:07,Motihari,Anniversary,February,22,9,10,1202,3606,Thursday,Saturday,3606
+548,C012,25,2,21-02-2023,12:32:50,22-02-2023,19:47:44,Gorakhpur,Anniversary,February,12,1,19,1202,2404,Tuesday,Wednesday,2404
+550,C023,29,5,27-02-2023,19:28:12,05-03-2023,17:03:39,Bettiah,Holi,February,19,6,17,1252,6260,Monday,Sunday,6260
+554,C045,29,4,28-02-2023,20:25:07,03-03-2023,16:49:01,Sangli-Miraj & Kupwad,Holi,February,20,3,16,1252,5008,Tuesday,Friday,5008
+570,C056,69,3,28-02-2023,11:25:04,09-03-2023,00:53:55,Satna,Holi,February,11,9,0,998,2994,Tuesday,Thursday,2994
+571,C046,6,1,28-02-2023,09:38:25,09-03-2023,04:26:01,Bhatpara,Holi,February,9,9,4,1112,1112,Tuesday,Thursday,1112
+617,C083,22,1,19-02-2023,02:53:42,28-02-2023,17:01:34,Uluberia,All Occasions,February,2,9,17,1639,1639,Sunday,Tuesday,1639
+625,C089,63,5,23-02-2023,21:15:42,04-03-2023,02:46:06,Belgaum,All Occasions,February,21,9,2,1348,6740,Thursday,Saturday,6740
+627,C024,51,4,05-02-2023,04:30:25,08-02-2023,23:38:12,Sirsa,All Occasions,February,4,3,23,1084,4336,Sunday,Wednesday,4336
+630,C071,67,3,21-02-2023,21:37:47,01-03-2023,18:53:08,Karimnagar,Anniversary,February,21,8,18,1374,4122,Tuesday,Wednesday,4122
+643,C063,35,2,26-02-2023,13:10:24,06-03-2023,20:24:10,Malda,Holi,February,13,8,20,1865,3730,Sunday,Monday,3730
+645,C033,50,3,27-02-2023,01:46:39,28-02-2023,02:07:11,Danapur,Holi,February,1,1,2,422,1266,Monday,Tuesday,1266
+650,C077,32,3,23-02-2023,01:54:43,02-03-2023,03:09:36,Guwahati,Birthday,February,1,7,3,1792,5376,Thursday,Thursday,5376
+662,C068,20,3,09-02-2023,18:29:52,18-02-2023,08:27:53,Hazaribagh,Anniversary,February,18,9,8,697,2091,Thursday,Saturday,2091
+675,C052,13,4,28-02-2023,08:04:46,09-03-2023,23:52:12,Pali,Holi,February,8,9,23,1141,4564,Tuesday,Thursday,4564
+676,C038,46,4,18-02-2023,12:42:24,20-02-2023,20:52:32,Kanpur,Anniversary,February,12,2,20,758,3032,Saturday,Monday,3032
+682,C054,50,5,26-02-2023,07:31:16,05-03-2023,11:32:33,Hyderabad,Holi,February,7,7,11,422,2110,Sunday,Sunday,2110
+707,C036,70,4,03-02-2023,06:17:26,12-02-2023,01:04:19,Tirunelveli,Birthday,February,6,9,1,866,3464,Friday,Sunday,3464
+723,C045,14,3,04-02-2023,18:00:57,05-02-2023,00:57:28,Mau,Birthday,February,18,1,0,1915,5745,Saturday,Sunday,5745
+729,C030,17,1,23-02-2023,18:19:53,25-02-2023,11:51:19,Kollam,Anniversary,February,18,2,11,1899,1899,Thursday,Saturday,1899
+735,C037,56,1,02-02-2023,07:22:26,04-02-2023,05:57:58,Nandyal,Anniversary,February,7,2,5,1272,1272,Thursday,Saturday,1272
+755,C037,6,5,27-02-2023,16:33:26,06-03-2023,02:16:52,Aurangabad,Holi,February,16,7,2,1112,5560,Monday,Monday,5560
+762,C064,50,1,26-02-2023,10:11:19,01-03-2023,03:56:20,Bangalore,Holi,February,10,3,3,422,422,Sunday,Wednesday,422
+775,C077,45,1,19-02-2023,03:48:10,24-02-2023,23:31:47,Anand,Birthday,February,3,5,23,722,722,Sunday,Friday,722
+777,C016,70,3,24-02-2023,15:33:57,27-02-2023,11:29:39,Bhusawal,Birthday,February,15,3,11,866,2598,Friday,Monday,2598
+785,C052,47,5,26-02-2023,17:41:34,01-03-2023,13:09:23,Jodhpur,Holi,February,17,3,13,1638,8190,Sunday,Wednesday,8190
+790,C046,26,2,28-02-2023,06:03:29,08-03-2023,04:20:38,Chennai,Holi,February,6,8,4,289,578,Tuesday,Wednesday,578
+806,C088,29,2,28-02-2023,13:01:22,08-03-2023,06:38:58,Jhansi,Holi,February,13,8,6,1252,2504,Tuesday,Wednesday,2504
+816,C042,35,3,28-02-2023,19:44:25,10-03-2023,13:41:37,Ujjain,Holi,February,19,10,13,1865,5595,Tuesday,Friday,5595
+821,C050,32,4,27-02-2023,20:15:31,07-03-2023,22:46:00,Bareilly,Birthday,February,20,8,22,1792,7168,Monday,Tuesday,7168
+832,C026,65,4,01-02-2023,18:56:24,10-02-2023,02:19:29,Etawah,All Occasions,February,18,9,2,1895,7580,Wednesday,Friday,7580
+854,C016,62,3,27-02-2023,02:00:33,02-03-2023,02:51:29,Bhind,Holi,February,2,3,2,1356,4068,Monday,Thursday,4068
+857,C053,63,1,09-02-2023,09:22:18,18-02-2023,14:00:44,Bareilly,All Occasions,February,9,9,14,1348,1348,Thursday,Saturday,1348
+861,C030,32,1,09-02-2023,08:19:31,14-02-2023,02:37:34,Bidar,Birthday,February,8,5,2,1792,1792,Thursday,Tuesday,1792
+919,C038,35,5,28-02-2023,08:27:53,04-03-2023,00:05:29,Delhi,Holi,February,8,4,0,1865,9325,Tuesday,Saturday,9325
+923,C034,7,4,27-02-2023,14:37:32,28-02-2023,22:01:37,Ahmedabad,Holi,February,14,1,22,409,1636,Monday,Tuesday,1636
+943,C026,22,4,19-02-2023,14:27:09,22-02-2023,19:05:59,Narasaraopet,All Occasions,February,14,3,19,1639,6556,Sunday,Wednesday,6556
+949,C020,6,4,27-02-2023,20:55:01,06-03-2023,09:35:17,Begusarai,Holi,February,20,7,9,1112,4448,Monday,Monday,4448
+961,C016,1,5,01-02-2023,06:49:28,10-02-2023,20:54:38,Gulbarga,All Occasions,February,6,9,20,1935,9675,Wednesday,Friday,9675
+973,C031,66,3,26-02-2023,10:35:55,07-03-2023,03:46:24,Barasat,Holi,February,10,9,3,610,1830,Sunday,Tuesday,1830
+978,C019,29,4,28-02-2023,08:59:15,09-03-2023,06:31:07,Barasat,Holi,February,8,9,6,1252,5008,Tuesday,Thursday,5008
+982,C019,47,4,28-02-2023,18:56:23,04-03-2023,03:11:23,Srinagar,Holi,February,18,4,3,1638,6552,Tuesday,Saturday,6552
+991,C054,36,5,09-02-2023,15:01:12,15-02-2023,17:16:56,Barasat,Birthday,February,15,6,17,203,1015,Thursday,Wednesday,1015
+51,C036,10,1,15-03-2023,09:23:49,19-03-2023,16:46:40,Agartala,Birthday,March,9,4,16,259,259,Wednesday,Sunday,259
+96,C099,25,3,14-03-2023,15:00:21,23-03-2023,08:56:06,Latur,Anniversary,March,15,9,8,1202,3606,Tuesday,Thursday,3606
+125,C020,31,2,19-03-2023,09:12:11,25-03-2023,14:36:11,Kolkata,All Occasions,March,9,6,14,1804,3608,Sunday,Saturday,3608
+128,C065,12,3,06-03-2023,16:50:28,13-03-2023,15:11:19,Kochi,Anniversary,March,16,7,15,672,2016,Monday,Monday,2016
+138,C022,57,4,11-03-2023,09:33:56,18-03-2023,06:02:40,Siliguri,Birthday,March,9,7,6,1582,6328,Saturday,Saturday,6328
+147,C080,8,4,17-03-2023,19:28:15,23-03-2023,13:51:11,Jodhpur,Anniversary,March,19,6,13,252,1008,Friday,Thursday,1008
+170,C040,32,2,21-03-2023,11:58:13,27-03-2023,05:14:07,Kamarhati,Birthday,March,11,6,5,1792,3584,Tuesday,Monday,3584
+176,C039,17,2,10-03-2023,03:34:46,16-03-2023,17:24:51,Moradabad,Anniversary,March,3,6,17,1899,3798,Friday,Thursday,3798
+197,C095,45,2,22-03-2023,18:38:42,26-03-2023,03:30:06,Etawah,Birthday,March,18,4,3,722,1444,Wednesday,Sunday,1444
+228,C035,36,1,10-03-2023,18:40:52,11-03-2023,10:30:00,Bijapur,Birthday,March,18,1,10,203,203,Friday,Saturday,203
+234,C097,42,1,24-03-2023,21:18:12,01-04-2023,00:36:53,Khandwa,All Occasions,March,21,8,0,1744,1744,Friday,Saturday,1744
+240,C074,5,5,25-03-2023,06:03:38,30-03-2023,15:43:28,Darbhanga,All Occasions,March,6,5,15,1444,7220,Saturday,Thursday,7220
+244,C041,65,3,20-03-2023,15:06:01,30-03-2023,07:06:40,Guntakal,All Occasions,March,15,10,7,1895,5685,Monday,Thursday,5685
+263,C081,57,4,12-03-2023,09:35:10,13-03-2023,15:22:01,Chittoor,Birthday,March,9,1,15,1582,6328,Sunday,Monday,6328
+304,C088,67,3,12-03-2023,09:24:28,19-03-2023,23:09:37,Tiruchirappalli,Anniversary,March,9,7,23,1374,4122,Sunday,Sunday,4122
+308,C005,57,1,09-03-2023,07:54:11,12-03-2023,12:11:24,Haldia,Birthday,March,7,3,12,1582,1582,Thursday,Sunday,1582
+321,C049,12,5,08-03-2023,11:27:05,17-03-2023,09:51:43,Rampur,Anniversary,March,11,9,9,672,3360,Wednesday,Friday,3360
+362,C041,31,2,10-03-2023,03:40:01,17-03-2023,10:35:23,Nashik,All Occasions,March,3,7,10,1804,3608,Friday,Friday,3608
+394,C028,38,5,23-03-2023,04:26:37,31-03-2023,19:25:58,Dewas,Birthday,March,4,8,19,562,2810,Thursday,Friday,2810
+396,C068,10,5,15-03-2023,15:30:58,16-03-2023,01:45:01,Tiruvottiyur,Birthday,March,15,1,1,259,1295,Wednesday,Thursday,1295
+408,C063,31,2,05-03-2023,12:19:26,11-03-2023,04:41:38,Haldia,All Occasions,March,12,6,4,1804,3608,Sunday,Saturday,3608
+459,C093,12,2,29-03-2023,07:24:55,30-03-2023,07:34:31,Ranchi,Anniversary,March,7,1,7,672,1344,Wednesday,Thursday,1344
+473,C061,22,3,28-03-2023,08:13:57,04-04-2023,15:44:18,Giridih,All Occasions,March,8,7,15,1639,4917,Tuesday,Tuesday,4917
+513,C088,1,4,27-03-2023,09:57:32,02-04-2023,13:56:41,Nandyal,All Occasions,March,9,6,13,1935,7740,Monday,Sunday,7740
+601,C030,1,4,14-03-2023,02:37:47,18-03-2023,03:37:12,Raurkela Industrial Township,All Occasions,March,2,4,3,1935,7740,Tuesday,Saturday,7740
+637,C056,51,3,12-03-2023,19:29:26,20-03-2023,22:34:14,Darbhanga,All Occasions,March,19,8,22,1084,3252,Sunday,Monday,3252
+687,C098,8,5,15-03-2023,17:57:15,19-03-2023,04:50:54,Raichur,Anniversary,March,17,4,4,252,1260,Wednesday,Sunday,1260
+695,C046,23,4,05-03-2023,16:36:52,14-03-2023,17:01:44,Imphal,Anniversary,March,16,9,17,1098,4392,Sunday,Tuesday,4392
+802,C097,45,3,23-03-2023,12:37:23,26-03-2023,06:19:00,Dibrugarh,Birthday,March,12,3,6,722,2166,Thursday,Sunday,2166
+818,C004,8,4,02-03-2023,07:51:06,09-03-2023,09:07:41,Thrissur,Anniversary,March,7,7,9,252,1008,Thursday,Thursday,1008
+849,C013,57,1,12-03-2023,01:16:48,14-03-2023,00:50:03,Panipat,Birthday,March,1,2,0,1582,1582,Sunday,Tuesday,1582
+877,C041,46,5,09-03-2023,23:16:16,18-03-2023,12:27:24,Hazaribagh,Anniversary,March,23,9,12,758,3790,Thursday,Saturday,3790
+884,C091,10,3,18-03-2023,22:15:44,27-03-2023,18:59:55,Tezpur,Birthday,March,22,9,18,259,777,Saturday,Monday,777
+890,C064,45,4,23-03-2023,23:25:20,27-03-2023,11:38:15,Kharagpur,Birthday,March,23,4,11,722,2888,Thursday,Monday,2888
+893,C010,63,3,28-03-2023,15:40:42,07-04-2023,14:49:23,Sangli-Miraj & Kupwad,All Occasions,March,15,10,14,1348,4044,Tuesday,Friday,4044
+895,C066,45,1,28-03-2023,18:45:56,06-04-2023,02:53:40,Sambhal,Birthday,March,18,9,2,722,722,Tuesday,Thursday,722
+902,C025,32,5,22-03-2023,13:29:55,24-03-2023,12:24:01,Bidar,Birthday,March,13,2,12,1792,8960,Wednesday,Friday,8960
+924,C013,17,1,25-03-2023,09:47:09,04-04-2023,22:56:05,Sagar,Anniversary,March,9,10,22,1899,1899,Saturday,Tuesday,1899
+926,C049,40,4,28-03-2023,23:01:58,31-03-2023,23:51:25,Kulti,Anniversary,March,23,3,23,1923,7692,Tuesday,Friday,7692
+929,C085,23,1,19-03-2023,07:00:52,26-03-2023,13:02:32,Kavali,Anniversary,March,7,7,13,1098,1098,Sunday,Sunday,1098
+937,C097,51,2,11-03-2023,03:57:43,15-03-2023,19:27:13,Rohtak,All Occasions,March,3,4,19,1084,2168,Saturday,Wednesday,2168
+983,C094,70,1,25-03-2023,09:39:44,01-04-2023,06:38:43,Satna,Birthday,March,9,7,6,866,866,Saturday,Saturday,866
+26,C040,6,3,06-03-2023,05:03:06,12-03-2023,06:06:11,Amroha,Holi,March,5,6,6,1112,3336,Monday,Sunday,3336
+62,C074,6,4,02-03-2023,15:30:51,06-03-2023,23:51:40,Jorhat,Holi,March,15,4,23,1112,4448,Thursday,Monday,4448
+32,C065,7,5,04-03-2023,15:36:41,05-03-2023,15:54:10,Pudukkottai,Holi,March,15,1,15,409,2045,Saturday,Sunday,2045
+35,C055,7,5,02-03-2023,16:10:26,05-03-2023,15:00:40,Asansol,Holi,March,16,3,15,409,2045,Thursday,Sunday,2045
+11,C065,16,4,02-03-2023,20:14:55,03-03-2023,23:19:47,Belgaum,Holi,March,20,1,23,1721,6884,Thursday,Friday,6884
+19,C072,62,4,07-03-2023,07:59:48,08-03-2023,03:04:34,Vijayanagaram,Holi,March,7,1,3,1356,5424,Tuesday,Wednesday,5424
+36,C029,66,1,04-03-2023,10:28:53,14-03-2023,08:14:49,New Delhi,Holi,March,10,10,8,610,610,Saturday,Tuesday,610
+72,C058,26,3,03-03-2023,15:49:26,12-03-2023,17:34:10,Bally,Holi,March,15,9,17,289,867,Friday,Sunday,867
+73,C057,26,1,03-03-2023,12:52:36,11-03-2023,01:28:36,Farrukhabad,Holi,March,12,8,1,289,289,Friday,Saturday,289
+84,C032,47,1,04-03-2023,03:31:50,06-03-2023,07:02:20,Tirupati,Holi,March,3,2,7,1638,1638,Saturday,Monday,1638
+85,C041,26,2,04-03-2023,21:35:20,14-03-2023,14:48:22,Agra,Holi,March,21,10,14,289,578,Saturday,Tuesday,578
+94,C099,69,5,02-03-2023,14:51:08,11-03-2023,08:14:49,Purnia,Holi,March,14,9,8,998,4990,Thursday,Saturday,4990
+110,C075,26,2,04-03-2023,11:23:44,13-03-2023,08:27:31,Kishanganj,Holi,March,11,9,8,289,578,Saturday,Monday,578
+119,C010,6,4,04-03-2023,11:02:10,12-03-2023,12:22:18,Fatehpur,Holi,March,11,8,12,1112,4448,Saturday,Sunday,4448
+134,C036,69,5,05-03-2023,19:12:46,14-03-2023,04:58:29,Malda,Holi,March,19,9,4,998,4990,Sunday,Tuesday,4990
+137,C070,47,2,05-03-2023,16:06:24,11-03-2023,07:29:21,Warangal,Holi,March,16,6,7,1638,3276,Sunday,Saturday,3276
+140,C015,47,1,04-03-2023,06:19:35,13-03-2023,21:29:35,Bharatpur,Holi,March,6,9,21,1638,1638,Saturday,Monday,1638
+153,C094,16,4,04-03-2023,12:15:00,10-03-2023,06:04:43,Rewa,Holi,March,12,6,6,1721,6884,Saturday,Friday,6884
+158,C007,35,2,03-03-2023,15:40:17,08-03-2023,02:53:01,Medininagar,Holi,March,15,5,2,1865,3730,Friday,Wednesday,3730
+168,C092,35,2,04-03-2023,15:36:03,07-03-2023,11:02:42,Bidar,Holi,March,15,3,11,1865,3730,Saturday,Tuesday,3730
+172,C070,62,4,03-03-2023,04:40:04,08-03-2023,05:12:47,Patiala,Holi,March,4,5,5,1356,5424,Friday,Wednesday,5424
+177,C085,62,4,05-03-2023,01:49:12,07-03-2023,14:50:42,Satara,Holi,March,1,2,14,1356,5424,Sunday,Tuesday,5424
+207,C078,6,2,05-03-2023,01:13:16,07-03-2023,12:15:56,Amravati,Holi,March,1,2,12,1112,2224,Sunday,Tuesday,2224
+214,C099,13,3,01-03-2023,07:49:55,07-03-2023,08:27:25,Durgapur,Holi,March,7,6,8,1141,3423,Wednesday,Tuesday,3423
+219,C027,16,5,05-03-2023,00:36:07,11-03-2023,10:36:05,Bhimavaram,Holi,March,0,6,10,1721,8605,Sunday,Saturday,8605
+220,C001,26,3,06-03-2023,12:26:54,15-03-2023,14:41:52,Jalandhar,Holi,March,12,9,14,289,867,Monday,Wednesday,867
+238,C083,26,4,05-03-2023,07:56:43,11-03-2023,20:18:17,Jammu,Holi,March,7,6,20,289,1156,Sunday,Saturday,1156
+245,C020,50,3,05-03-2023,06:25:26,11-03-2023,09:30:30,Noida,Holi,March,6,6,9,422,1266,Sunday,Saturday,1266
+259,C001,62,1,05-03-2023,15:21:54,10-03-2023,00:04:01,Sirsa,Holi,March,15,5,0,1356,1356,Sunday,Friday,1356
+260,C100,69,5,06-03-2023,13:06:11,16-03-2023,22:22:30,Satara,Holi,March,13,10,22,998,4990,Monday,Thursday,4990
+267,C055,35,3,04-03-2023,13:38:57,12-03-2023,03:52:00,Chandrapur,Holi,March,13,8,3,1865,5595,Saturday,Sunday,5595
+275,C028,29,1,02-03-2023,04:13:47,05-03-2023,01:17:39,Ranchi,Holi,March,4,3,1,1252,1252,Thursday,Sunday,1252
+286,C098,50,3,06-03-2023,20:05:40,12-03-2023,02:41:27,Mango,Holi,March,20,6,2,422,1266,Monday,Sunday,1266
+287,C011,7,5,03-03-2023,04:54:04,06-03-2023,15:39:57,Muzaffarnagar,Holi,March,4,3,15,409,2045,Friday,Monday,2045
+290,C079,69,3,06-03-2023,10:27:18,10-03-2023,14:33:34,Alwar,Holi,March,10,4,14,998,2994,Monday,Friday,2994
+294,C047,26,5,01-03-2023,21:04:18,03-03-2023,19:44:54,Nagpur,Holi,March,21,2,19,289,1445,Wednesday,Friday,1445
+305,C003,26,1,02-03-2023,00:10:44,10-03-2023,14:01:05,Lucknow,Holi,March,0,8,14,289,289,Thursday,Friday,289
+315,C063,26,5,06-03-2023,14:21:31,09-03-2023,19:20:21,Ambattur,Holi,March,14,3,19,289,1445,Monday,Thursday,1445
+317,C014,29,3,07-03-2023,18:51:27,15-03-2023,16:12:50,Ahmednagar,Holi,March,18,8,16,1252,3756,Tuesday,Wednesday,3756
+318,C038,26,5,07-03-2023,12:15:49,11-03-2023,15:59:47,Hosur,Holi,March,12,4,15,289,1445,Tuesday,Saturday,1445
+320,C007,13,1,01-03-2023,07:49:55,08-03-2023,08:38:21,Bijapur,Holi,March,7,7,8,1141,1141,Wednesday,Wednesday,1141
+343,C006,66,3,06-03-2023,14:12:40,09-03-2023,09:27:05,Parbhani,Holi,March,14,3,9,610,1830,Monday,Thursday,1830
+346,C090,50,1,04-03-2023,23:24:17,12-03-2023,16:46:34,Pondicherry,Holi,March,23,8,16,422,422,Saturday,Sunday,422
+357,C063,62,4,03-03-2023,20:01:18,13-03-2023,20:55:34,Kavali,Holi,March,20,10,20,1356,5424,Friday,Monday,5424
+361,C049,47,4,03-03-2023,06:09:56,11-03-2023,08:33:10,Rajkot,Holi,March,6,8,8,1638,6552,Friday,Saturday,6552
+367,C010,47,5,03-03-2023,00:44:09,12-03-2023,15:05:03,South Dumdum,Holi,March,0,9,15,1638,8190,Friday,Sunday,8190
+368,C042,6,3,04-03-2023,23:03:22,06-03-2023,02:52:10,Nashik,Holi,March,23,2,2,1112,3336,Saturday,Monday,3336
+378,C040,6,2,01-03-2023,11:30:20,08-03-2023,19:26:52,Hindupur,Holi,March,11,7,19,1112,2224,Wednesday,Wednesday,2224
+379,C078,66,1,03-03-2023,23:31:41,06-03-2023,10:44:03,Bhavnagar,Holi,March,23,3,10,610,610,Friday,Monday,610
+385,C002,50,4,03-03-2023,01:16:01,08-03-2023,10:46:18,Alwar,Holi,March,1,5,10,422,1688,Friday,Wednesday,1688
+389,C061,29,2,06-03-2023,03:26:18,16-03-2023,18:13:40,Mahbubnagar,Holi,March,3,10,18,1252,2504,Monday,Thursday,2504
+390,C043,26,4,03-03-2023,15:40:56,10-03-2023,23:02:07,Akola,Holi,March,15,7,23,289,1156,Friday,Friday,1156
+395,C067,26,2,03-03-2023,23:14:54,06-03-2023,18:32:37,Hosur,Holi,March,23,3,18,289,578,Friday,Monday,578
+402,C037,29,1,05-03-2023,16:42:29,08-03-2023,13:32:50,Thrissur,Holi,March,16,3,13,1252,1252,Sunday,Wednesday,1252
+417,C004,62,4,07-03-2023,22:40:40,11-03-2023,05:56:33,Khammam,Holi,March,22,4,5,1356,5424,Tuesday,Saturday,5424
+419,C065,47,3,05-03-2023,17:18:51,11-03-2023,13:53:36,Agartala,Holi,March,17,6,13,1638,4914,Sunday,Saturday,4914
+424,C072,7,4,01-03-2023,03:04:56,09-03-2023,10:27:03,Kishanganj,Holi,March,3,8,10,409,1636,Wednesday,Thursday,1636
+440,C018,13,4,07-03-2023,09:33:31,09-03-2023,01:21:29,Gudivada,Holi,March,9,2,1,1141,4564,Tuesday,Thursday,4564
+448,C086,16,1,02-03-2023,02:42:54,03-03-2023,13:42:24,Bulandshahr,Holi,March,2,1,13,1721,1721,Thursday,Friday,1721
+460,C007,29,2,04-03-2023,07:58:33,06-03-2023,00:07:26,Kolhapur,Holi,March,7,2,0,1252,2504,Saturday,Monday,2504
+480,C059,62,4,06-03-2023,04:29:31,16-03-2023,22:19:33,Sagar,Holi,March,4,10,22,1356,5424,Monday,Thursday,5424
+507,C028,13,4,07-03-2023,00:28:11,13-03-2023,20:11:36,Malda,Holi,March,0,6,20,1141,4564,Tuesday,Monday,4564
+509,C003,13,5,05-03-2023,12:48:55,09-03-2023,07:47:16,Uluberia,Holi,March,12,4,7,1141,5705,Sunday,Thursday,5705
+525,C033,16,2,02-03-2023,20:06:08,11-03-2023,22:22:35,Bhagalpur,Holi,March,20,9,22,1721,3442,Thursday,Saturday,3442
+526,C008,13,5,02-03-2023,06:06:20,08-03-2023,01:35:05,Bangalore,Holi,March,6,6,1,1141,5705,Thursday,Wednesday,5705
+544,C030,29,2,01-03-2023,02:31:54,11-03-2023,09:33:52,Belgaum,Holi,March,2,10,9,1252,2504,Wednesday,Saturday,2504
+557,C039,47,3,01-03-2023,03:00:42,08-03-2023,02:10:39,Kavali,Holi,March,3,7,2,1638,4914,Wednesday,Wednesday,4914
+565,C011,50,3,06-03-2023,17:28:16,14-03-2023,13:12:47,Mehsana,Holi,March,17,8,13,422,1266,Monday,Tuesday,1266
+567,C090,66,1,06-03-2023,06:11:59,15-03-2023,18:57:04,Unnao,Holi,March,6,9,18,610,610,Monday,Wednesday,610
+574,C064,29,3,02-03-2023,23:57:06,06-03-2023,21:45:12,Kozhikode,Holi,March,23,4,21,1252,3756,Thursday,Monday,3756
+579,C092,29,2,07-03-2023,21:38:40,14-03-2023,10:45:06,Maheshtala,Holi,March,21,7,10,1252,2504,Tuesday,Tuesday,2504
+592,C007,47,5,07-03-2023,03:27:03,11-03-2023,21:41:23,Phusro,Holi,March,3,4,21,1638,8190,Tuesday,Saturday,8190
+596,C046,50,1,05-03-2023,14:57:41,14-03-2023,17:58:44,Tiruppur,Holi,March,14,9,17,422,422,Sunday,Tuesday,422
+597,C074,16,1,01-03-2023,01:05:53,06-03-2023,02:49:44,Pimpri-Chinchwad,Holi,March,1,5,2,1721,1721,Wednesday,Monday,1721
+600,C095,47,4,07-03-2023,21:24:39,09-03-2023,15:17:19,Shimla,Holi,March,21,2,15,1638,6552,Tuesday,Thursday,6552
+607,C028,50,3,03-03-2023,01:50:25,05-03-2023,09:52:56,Bidhannagar,Holi,March,1,2,9,422,1266,Friday,Sunday,1266
+612,C075,26,1,02-03-2023,10:22:25,08-03-2023,12:39:50,Shivpuri,Holi,March,10,6,12,289,289,Thursday,Wednesday,289
+614,C089,26,1,03-03-2023,15:36:13,07-03-2023,18:51:41,Aizawl,Holi,March,15,4,18,289,289,Friday,Tuesday,289
+619,C091,35,1,06-03-2023,07:18:46,16-03-2023,03:17:33,Patiala,Holi,March,7,10,3,1865,1865,Monday,Thursday,1865
+657,C055,13,3,03-03-2023,09:37:53,08-03-2023,14:48:35,Kochi,Holi,March,9,5,14,1141,3423,Friday,Wednesday,3423
+665,C060,62,5,05-03-2023,14:23:22,15-03-2023,15:54:03,Akola,Holi,March,14,10,15,1356,6780,Sunday,Wednesday,6780
+666,C032,26,5,02-03-2023,09:41:06,08-03-2023,19:28:15,Jammu,Holi,March,9,6,19,289,1445,Thursday,Wednesday,1445
+686,C026,50,1,01-03-2023,16:29:38,11-03-2023,21:37:59,Bardhaman,Holi,March,16,10,21,422,422,Wednesday,Saturday,422
+689,C046,66,4,02-03-2023,05:52:42,07-03-2023,11:00:27,Silchar,Holi,March,5,5,11,610,2440,Thursday,Tuesday,2440
+696,C046,13,3,07-03-2023,02:42:21,14-03-2023,15:08:45,Rajpur Sonarpur,Holi,March,2,7,15,1141,3423,Tuesday,Tuesday,3423
+697,C026,66,1,03-03-2023,14:20:25,07-03-2023,15:14:20,Ichalkaranji,Holi,March,14,4,15,610,610,Friday,Tuesday,610
+700,C006,6,1,04-03-2023,18:17:57,09-03-2023,13:43:07,Gwalior,Holi,March,18,5,13,1112,1112,Saturday,Thursday,1112
+705,C004,7,1,05-03-2023,18:18:01,14-03-2023,17:57:09,Pimpri-Chinchwad,Holi,March,18,9,17,409,409,Sunday,Tuesday,409
+708,C002,62,3,03-03-2023,10:59:15,12-03-2023,05:05:35,Ozhukarai,Holi,March,10,9,5,1356,4068,Friday,Sunday,4068
+722,C044,13,5,02-03-2023,17:30:25,08-03-2023,08:06:58,Mathura,Holi,March,17,6,8,1141,5705,Thursday,Wednesday,5705
+725,C035,35,3,06-03-2023,23:23:18,11-03-2023,20:03:47,Kishanganj,Holi,March,23,5,20,1865,5595,Monday,Saturday,5595
+738,C098,16,5,03-03-2023,16:23:38,09-03-2023,01:36:32,Maheshtala,Holi,March,16,6,1,1721,8605,Friday,Thursday,8605
+746,C051,35,2,02-03-2023,05:23:29,06-03-2023,06:24:41,Parbhani,Holi,March,5,4,6,1865,3730,Thursday,Monday,3730
+747,C009,6,4,06-03-2023,03:43:24,11-03-2023,16:38:35,Dhanbad,Holi,March,3,5,16,1112,4448,Monday,Saturday,4448
+748,C079,26,1,06-03-2023,11:13:52,07-03-2023,20:26:40,Tenali,Holi,March,11,1,20,289,289,Monday,Tuesday,289
+763,C070,29,4,02-03-2023,15:22:09,04-03-2023,04:30:07,Nellore,Holi,March,15,2,4,1252,5008,Thursday,Saturday,5008
+767,C077,13,2,03-03-2023,02:21:13,04-03-2023,00:14:53,Rohtak,Holi,March,2,1,0,1141,2282,Friday,Saturday,2282
+772,C085,35,5,01-03-2023,05:03:06,04-03-2023,08:20:05,Machilipatnam,Holi,March,5,3,8,1865,9325,Wednesday,Saturday,9325
+786,C003,47,1,05-03-2023,22:47:05,07-03-2023,07:16:53,Kirari Suleman Nagar,Holi,March,22,2,7,1638,1638,Sunday,Tuesday,1638
+794,C079,13,4,04-03-2023,17:11:58,09-03-2023,14:51:06,Shimoga,Holi,March,17,5,14,1141,4564,Saturday,Thursday,4564
+795,C070,7,1,03-03-2023,17:58:36,07-03-2023,22:17:46,Ujjain,Holi,March,17,4,22,409,409,Friday,Tuesday,409
+797,C047,13,2,03-03-2023,20:57:50,10-03-2023,04:29:03,Tiruvottiyur,Holi,March,20,7,4,1141,2282,Friday,Friday,2282
+801,C058,35,1,07-03-2023,19:15:48,15-03-2023,06:35:12,Dindigul,Holi,March,19,8,6,1865,1865,Tuesday,Wednesday,1865
+803,C040,26,1,03-03-2023,12:03:48,10-03-2023,02:50:05,Sambalpur,Holi,March,12,7,2,289,289,Friday,Friday,289
+809,C062,35,1,07-03-2023,19:50:47,17-03-2023,01:51:34,Ludhiana,Holi,March,19,10,1,1865,1865,Tuesday,Friday,1865
+814,C094,47,5,05-03-2023,01:59:20,14-03-2023,04:41:16,Kumbakonam,Holi,March,1,9,4,1638,8190,Sunday,Tuesday,8190
+826,C077,16,5,02-03-2023,20:02:07,08-03-2023,06:16:18,Udaipur,Holi,March,20,6,6,1721,8605,Thursday,Wednesday,8605
+833,C002,26,3,05-03-2023,00:40:48,13-03-2023,01:40:17,Shahjahanpur,Holi,March,0,8,1,289,867,Sunday,Monday,867
+841,C041,26,5,07-03-2023,06:16:00,12-03-2023,23:16:39,Bhalswa Jahangir Pur,Holi,March,6,5,23,289,1445,Tuesday,Sunday,1445
+848,C005,6,1,06-03-2023,16:52:57,10-03-2023,22:26:48,Shimla,Holi,March,16,4,22,1112,1112,Monday,Friday,1112
+851,C030,13,3,06-03-2023,11:31:57,10-03-2023,18:17:54,Singrauli,Holi,March,11,4,18,1141,3423,Monday,Friday,3423
+862,C049,6,4,07-03-2023,05:51:14,15-03-2023,08:23:47,Shimoga,Holi,March,5,8,8,1112,4448,Tuesday,Wednesday,4448
+872,C094,13,2,05-03-2023,20:27:57,10-03-2023,01:32:23,Bokaro,Holi,March,20,5,1,1141,2282,Sunday,Friday,2282
+875,C011,13,1,05-03-2023,21:22:31,14-03-2023,19:57:46,Purnia,Holi,March,21,9,19,1141,1141,Sunday,Tuesday,1141
+888,C014,69,3,06-03-2023,11:34:43,11-03-2023,15:14:09,Gandhinagar,Holi,March,11,5,15,998,2994,Monday,Saturday,2994
+915,C014,35,1,06-03-2023,21:12:40,14-03-2023,05:32:37,Uluberia,Holi,March,21,8,5,1865,1865,Monday,Tuesday,1865
+948,C061,26,3,04-03-2023,18:21:51,07-03-2023,13:11:26,Dehradun,Holi,March,18,3,13,289,867,Saturday,Tuesday,867
+958,C009,16,3,07-03-2023,14:02:57,14-03-2023,22:04:41,Bihar Sharif,Holi,March,14,7,22,1721,5163,Tuesday,Tuesday,5163
+963,C025,29,1,03-03-2023,08:44:19,06-03-2023,10:36:46,Phagwara,Holi,March,8,3,10,1252,1252,Friday,Monday,1252
+965,C080,62,1,02-03-2023,03:15:10,06-03-2023,17:20:22,Amaravati,Holi,March,3,4,17,1356,1356,Thursday,Monday,1356
+966,C061,13,2,01-03-2023,02:21:06,10-03-2023,10:22:53,Nellore,Holi,March,2,9,10,1141,2282,Wednesday,Friday,2282
+971,C027,47,1,02-03-2023,04:02:13,10-03-2023,19:17:36,Sultan Pur Majra,Holi,March,4,8,19,1638,1638,Thursday,Friday,1638
+975,C077,62,2,04-03-2023,00:26:32,12-03-2023,08:03:42,Sultan Pur Majra,Holi,March,0,8,8,1356,2712,Saturday,Sunday,2712
+977,C005,47,2,05-03-2023,12:33:31,07-03-2023,23:39:44,Rajpur Sonarpur,Holi,March,12,2,23,1638,3276,Sunday,Tuesday,3276
+6,C040,28,4,20-08-2023,22:11:35,26-08-2023,19:06:46,Sirsa,Raksha Bandhan,August,22,6,19,1778,7112,Sunday,Saturday,7112
+9,C044,27,4,20-08-2023,23:39:51,29-08-2023,23:59:54,Rajkot,Raksha Bandhan,August,23,9,23,548,2192,Sunday,Tuesday,2192
+27,C063,9,2,22-08-2023,11:16:28,30-08-2023,07:59:12,Raipur,Raksha Bandhan,August,11,8,7,1605,3210,Tuesday,Wednesday,3210
+52,C023,9,1,29-08-2023,19:55:22,07-09-2023,04:22:02,Hospet,Raksha Bandhan,August,19,9,4,1605,1605,Tuesday,Thursday,1605
+53,C045,9,5,20-08-2023,08:25:45,27-08-2023,05:59:31,Kozhikode,Raksha Bandhan,August,8,7,5,1605,8025,Sunday,Sunday,8025
+71,C013,9,5,20-08-2023,16:32:06,28-08-2023,13:31:32,Karnal,Raksha Bandhan,August,16,8,13,1605,8025,Sunday,Monday,8025
+15,C069,21,5,26-08-2023,02:52:39,30-08-2023,13:26:45,Pune,Raksha Bandhan,August,2,4,13,1561,7805,Saturday,Wednesday,7805
+68,C050,34,4,25-08-2023,22:43:58,31-08-2023,21:31:14,Ahmedabad,Raksha Bandhan,August,22,6,21,1335,5340,Friday,Thursday,5340
+83,C036,27,4,23-08-2023,19:12:01,02-09-2023,14:44:00,Asansol,Raksha Bandhan,August,19,10,14,548,2192,Wednesday,Saturday,2192
+117,C033,59,3,20-08-2023,18:50:05,22-08-2023,03:43:01,Loni,Raksha Bandhan,August,18,2,3,811,2433,Sunday,Tuesday,2433
+145,C055,59,5,29-08-2023,16:52:56,03-09-2023,13:04:25,Kumbakonam,Raksha Bandhan,August,16,5,13,811,4055,Tuesday,Sunday,4055
+150,C092,27,5,26-08-2023,07:18:17,29-08-2023,16:56:13,Bidar,Raksha Bandhan,August,7,3,16,548,2740,Saturday,Tuesday,2740
+162,C050,55,3,27-08-2023,06:14:31,05-09-2023,15:53:45,Barasat,Raksha Bandhan,August,6,9,15,1904,5712,Sunday,Tuesday,5712
+180,C058,55,2,24-08-2023,16:40:33,27-08-2023,08:45:14,Nellore,Raksha Bandhan,August,16,3,8,1904,3808,Thursday,Sunday,3808
+192,C060,64,5,20-08-2023,12:28:32,21-08-2023,02:11:18,Vijayanagaram,Raksha Bandhan,August,12,1,2,1878,9390,Sunday,Monday,9390
+201,C004,55,4,24-08-2023,04:40:14,30-08-2023,03:52:28,Dewas,Raksha Bandhan,August,4,6,3,1904,7616,Thursday,Wednesday,7616
+203,C039,9,5,29-08-2023,05:39:00,08-09-2023,22:40:14,Vijayanagaram,Raksha Bandhan,August,5,10,22,1605,8025,Tuesday,Friday,8025
+217,C042,53,4,27-08-2023,03:04:34,30-08-2023,16:42:19,Rajkot,Raksha Bandhan,August,3,3,16,1672,6688,Sunday,Wednesday,6688
+221,C076,28,4,21-08-2023,02:11:04,30-08-2023,14:00:35,Naihati,Raksha Bandhan,August,2,9,14,1778,7112,Monday,Wednesday,7112
+224,C028,34,1,24-08-2023,21:01:58,29-08-2023,02:06:40,Suryapet,Raksha Bandhan,August,21,5,2,1335,1335,Thursday,Tuesday,1335
+230,C053,64,3,27-08-2023,08:27:50,01-09-2023,01:35:49,Mehsana,Raksha Bandhan,August,8,5,1,1878,5634,Sunday,Friday,5634
+231,C093,64,3,24-08-2023,09:15:18,28-08-2023,21:13:01,Proddatur,Raksha Bandhan,August,9,4,21,1878,5634,Thursday,Monday,5634
+232,C044,28,3,22-08-2023,12:06:09,23-08-2023,09:00:02,Nadiad,Raksha Bandhan,August,12,1,9,1778,5334,Tuesday,Wednesday,5334
+233,C098,64,4,26-08-2023,22:15:19,30-08-2023,04:07:39,Nizamabad,Raksha Bandhan,August,22,4,4,1878,7512,Saturday,Wednesday,7512
+237,C024,55,1,26-08-2023,09:23:53,30-08-2023,08:19:20,Sasaram,Raksha Bandhan,August,9,4,8,1904,1904,Saturday,Wednesday,1904
+239,C088,27,3,29-08-2023,08:33:45,06-09-2023,13:23:08,Gurgaon,Raksha Bandhan,August,8,8,13,548,1644,Tuesday,Wednesday,1644
+242,C012,21,1,23-08-2023,10:24:46,31-08-2023,16:02:32,Amroha,Raksha Bandhan,August,10,8,16,1561,1561,Wednesday,Thursday,1561
+257,C077,21,3,22-08-2023,15:42:59,24-08-2023,22:39:39,Chinsurah,Raksha Bandhan,August,15,2,22,1561,4683,Tuesday,Thursday,4683
+270,C084,21,5,22-08-2023,20:21:29,01-09-2023,16:03:59,Avadi,Raksha Bandhan,August,20,10,16,1561,7805,Tuesday,Friday,7805
+277,C062,34,5,23-08-2023,19:16:40,29-08-2023,15:50:18,Bhilai,Raksha Bandhan,August,19,6,15,1335,6675,Wednesday,Tuesday,6675
+288,C035,34,2,21-08-2023,15:58:58,23-08-2023,20:42:36,Ballia,Raksha Bandhan,August,15,2,20,1335,2670,Monday,Wednesday,2670
+312,C044,9,1,22-08-2023,18:27:36,27-08-2023,06:01:14,Akola,Raksha Bandhan,August,18,5,6,1605,1605,Tuesday,Sunday,1605
+319,C044,64,1,20-08-2023,06:23:07,26-08-2023,22:44:23,Bikaner,Raksha Bandhan,August,6,6,22,1878,1878,Sunday,Saturday,1878
+325,C091,27,5,25-08-2023,18:30:45,04-09-2023,20:02:37,Amritsar,Raksha Bandhan,August,18,10,20,548,2740,Friday,Monday,2740
+326,C088,34,3,27-08-2023,15:39:05,03-09-2023,15:33:32,Panchkula,Raksha Bandhan,August,15,7,15,1335,4005,Sunday,Sunday,4005
+330,C059,59,2,24-08-2023,20:25:09,01-09-2023,12:26:20,Shahjahanpur,Raksha Bandhan,August,20,8,12,811,1622,Thursday,Friday,1622
+334,C066,53,1,28-08-2023,21:19:46,01-09-2023,22:03:03,Patiala,Raksha Bandhan,August,21,4,22,1672,1672,Monday,Friday,1672
+336,C069,53,1,20-08-2023,04:32:24,25-08-2023,19:54:17,Tiruchirappalli,Raksha Bandhan,August,4,5,19,1672,1672,Sunday,Friday,1672
+338,C087,21,3,20-08-2023,14:15:51,28-08-2023,01:34:07,Panchkula,Raksha Bandhan,August,14,8,1,1561,4683,Sunday,Monday,4683
+341,C028,9,2,20-08-2023,14:54:35,30-08-2023,22:32:13,Ongole,Raksha Bandhan,August,14,10,22,1605,3210,Sunday,Wednesday,3210
+344,C020,28,5,29-08-2023,17:06:22,03-09-2023,06:28:07,Tiruvottiyur,Raksha Bandhan,August,17,5,6,1778,8890,Tuesday,Sunday,8890
+347,C034,34,2,29-08-2023,09:46:21,08-09-2023,08:37:09,Shimoga,Raksha Bandhan,August,9,10,8,1335,2670,Tuesday,Friday,2670
+352,C080,28,1,23-08-2023,23:49:45,02-09-2023,09:14:52,Bellary,Raksha Bandhan,August,23,10,9,1778,1778,Wednesday,Saturday,1778
+353,C089,55,2,21-08-2023,09:43:27,24-08-2023,14:12:14,Korba,Raksha Bandhan,August,9,3,14,1904,3808,Monday,Thursday,3808
+358,C040,55,1,20-08-2023,16:53:29,25-08-2023,13:30:37,Secunderabad,Raksha Bandhan,August,16,5,13,1904,1904,Sunday,Friday,1904
+377,C013,55,4,26-08-2023,08:34:06,31-08-2023,11:47:09,Ghaziabad,Raksha Bandhan,August,8,5,11,1904,7616,Saturday,Thursday,7616
+401,C089,9,5,29-08-2023,19:53:33,04-09-2023,07:19:07,Bharatpur,Raksha Bandhan,August,19,6,7,1605,8025,Tuesday,Monday,8025
+404,C055,21,5,22-08-2023,07:55:20,24-08-2023,22:27:19,South Dumdum,Raksha Bandhan,August,7,2,22,1561,7805,Tuesday,Thursday,7805
+406,C049,55,4,25-08-2023,15:59:17,02-09-2023,06:23:53,Srikakulam,Raksha Bandhan,August,15,8,6,1904,7616,Friday,Saturday,7616
+413,C050,59,5,22-08-2023,05:32:17,30-08-2023,20:21:11,Amritsar,Raksha Bandhan,August,5,8,20,811,4055,Tuesday,Wednesday,4055
+418,C069,64,3,24-08-2023,13:17:22,01-09-2023,11:37:10,Karimnagar,Raksha Bandhan,August,13,8,11,1878,5634,Thursday,Friday,5634
+422,C044,53,2,20-08-2023,03:03:58,29-08-2023,04:05:39,Eluru,Raksha Bandhan,August,3,9,4,1672,3344,Sunday,Tuesday,3344
+429,C007,9,5,22-08-2023,22:46:57,31-08-2023,12:43:52,Bahraich,Raksha Bandhan,August,22,9,12,1605,8025,Tuesday,Thursday,8025
+430,C045,27,2,27-08-2023,07:20:30,31-08-2023,10:03:32,Rourkela,Raksha Bandhan,August,7,4,10,548,1096,Sunday,Thursday,1096
+435,C017,53,4,22-08-2023,17:27:30,27-08-2023,12:35:14,Mira-Bhayandar,Raksha Bandhan,August,17,5,12,1672,6688,Tuesday,Sunday,6688
+437,C010,55,1,24-08-2023,06:30:47,27-08-2023,22:56:38,Uluberia,Raksha Bandhan,August,6,3,22,1904,1904,Thursday,Sunday,1904
+438,C037,34,2,26-08-2023,09:27:17,27-08-2023,03:18:31,Tadepalligudem,Raksha Bandhan,August,9,1,3,1335,2670,Saturday,Sunday,2670
+453,C032,27,2,21-08-2023,10:11:39,31-08-2023,12:28:21,Varanasi,Raksha Bandhan,August,10,10,12,548,1096,Monday,Thursday,1096
+465,C029,55,5,23-08-2023,23:46:12,26-08-2023,13:29:11,Madurai,Raksha Bandhan,August,23,3,13,1904,9520,Wednesday,Saturday,9520
+467,C056,53,1,28-08-2023,14:18:44,02-09-2023,15:20:11,Gandhidham,Raksha Bandhan,August,14,5,15,1672,1672,Monday,Saturday,1672
+483,C007,59,2,28-08-2023,06:25:03,31-08-2023,05:06:02,Pallavaram,Raksha Bandhan,August,6,3,5,811,1622,Monday,Thursday,1622
+488,C025,21,4,28-08-2023,22:13:30,29-08-2023,05:26:49,Nizamabad,Raksha Bandhan,August,22,1,5,1561,6244,Monday,Tuesday,6244
+497,C081,64,2,29-08-2023,20:14:01,01-09-2023,04:42:56,Alwar,Raksha Bandhan,August,20,3,4,1878,3756,Tuesday,Friday,3756
+499,C031,59,1,27-08-2023,12:09:20,02-09-2023,10:03:32,Ichalkaranji,Raksha Bandhan,August,12,6,10,811,811,Sunday,Saturday,811
+503,C020,34,1,29-08-2023,20:45:45,06-09-2023,07:49:54,Dehri,Raksha Bandhan,August,20,8,7,1335,1335,Tuesday,Wednesday,1335
+506,C058,55,4,27-08-2023,08:52:04,02-09-2023,11:43:24,Thrissur,Raksha Bandhan,August,8,6,11,1904,7616,Sunday,Saturday,7616
+528,C001,27,3,27-08-2023,05:01:16,30-08-2023,17:03:43,Tirunelveli,Raksha Bandhan,August,5,3,17,548,1644,Sunday,Wednesday,1644
+529,C013,64,2,25-08-2023,15:47:28,28-08-2023,14:05:18,Madurai,Raksha Bandhan,August,15,3,14,1878,3756,Friday,Monday,3756
+531,C029,28,5,29-08-2023,13:32:08,07-09-2023,08:43:11,Dehradun,Raksha Bandhan,August,13,9,8,1778,8890,Tuesday,Thursday,8890
+536,C048,59,3,25-08-2023,15:14:52,30-08-2023,11:13:10,Kota,Raksha Bandhan,August,15,5,11,811,2433,Friday,Wednesday,2433
+545,C083,9,5,20-08-2023,01:54:52,26-08-2023,08:07:19,Ratlam,Raksha Bandhan,August,1,6,8,1605,8025,Sunday,Saturday,8025
+549,C021,64,1,22-08-2023,19:29:43,01-09-2023,02:29:10,Erode,Raksha Bandhan,August,19,10,2,1878,1878,Tuesday,Friday,1878
+558,C091,64,3,22-08-2023,00:42:58,25-08-2023,00:24:52,Muzaffarpur,Raksha Bandhan,August,0,3,0,1878,5634,Tuesday,Friday,5634
+569,C027,53,2,28-08-2023,14:00:43,04-09-2023,17:56:22,Purnia,Raksha Bandhan,August,14,7,17,1672,3344,Monday,Monday,3344
+576,C074,53,4,20-08-2023,07:04:37,26-08-2023,08:01:59,Aurangabad,Raksha Bandhan,August,7,6,8,1672,6688,Sunday,Saturday,6688
+584,C089,34,2,23-08-2023,07:39:30,27-08-2023,16:10:28,Eluru,Raksha Bandhan,August,7,4,16,1335,2670,Wednesday,Sunday,2670
+586,C068,64,5,27-08-2023,21:04:38,04-09-2023,16:30:39,Bilaspur,Raksha Bandhan,August,21,8,16,1878,9390,Sunday,Monday,9390
+599,C004,34,1,21-08-2023,19:32:24,24-08-2023,12:13:52,Naihati,Raksha Bandhan,August,19,3,12,1335,1335,Monday,Thursday,1335
+608,C030,55,5,28-08-2023,20:30:15,01-09-2023,07:14:20,Etawah,Raksha Bandhan,August,20,4,7,1904,9520,Monday,Friday,9520
+611,C056,28,2,22-08-2023,21:17:50,28-08-2023,03:27:30,Latur,Raksha Bandhan,August,21,6,3,1778,3556,Tuesday,Monday,3556
+615,C020,28,3,25-08-2023,21:11:09,01-09-2023,06:10:16,Allahabad,Raksha Bandhan,August,21,7,6,1778,5334,Friday,Friday,5334
+621,C070,64,3,20-08-2023,07:17:03,28-08-2023,01:32:49,Ahmedabad,Raksha Bandhan,August,7,8,1,1878,5634,Sunday,Monday,5634
+624,C024,53,5,29-08-2023,09:19:59,01-09-2023,08:29:54,Ambala,Raksha Bandhan,August,9,3,8,1672,8360,Tuesday,Friday,8360
+629,C032,28,5,27-08-2023,09:09:01,04-09-2023,15:31:23,Sangli-Miraj & Kupwad,Raksha Bandhan,August,9,8,15,1778,8890,Sunday,Monday,8890
+636,C067,53,2,25-08-2023,07:18:26,02-09-2023,03:33:45,Panipat,Raksha Bandhan,August,7,8,3,1672,3344,Friday,Saturday,3344
+640,C089,59,3,23-08-2023,06:16:51,31-08-2023,19:07:21,Bathinda,Raksha Bandhan,August,6,8,19,811,2433,Wednesday,Thursday,2433
+647,C069,21,5,25-08-2023,17:00:25,26-08-2023,01:29:04,Anantapuram,Raksha Bandhan,August,17,1,1,1561,7805,Friday,Saturday,7805
+652,C032,21,2,28-08-2023,19:41:09,03-09-2023,00:01:31,Phagwara,Raksha Bandhan,August,19,6,0,1561,3122,Monday,Sunday,3122
+654,C019,64,2,29-08-2023,04:53:15,02-09-2023,00:41:13,Jhansi,Raksha Bandhan,August,4,4,0,1878,3756,Tuesday,Saturday,3756
+658,C061,21,3,22-08-2023,20:54:56,31-08-2023,08:54:06,Srikakulam,Raksha Bandhan,August,20,9,8,1561,4683,Tuesday,Thursday,4683
+668,C009,55,2,21-08-2023,10:09:53,30-08-2023,16:32:49,Ajmer,Raksha Bandhan,August,10,9,16,1904,3808,Monday,Wednesday,3808
+683,C024,27,3,23-08-2023,21:26:58,30-08-2023,19:25:08,Surendranagar Dudhrej,Raksha Bandhan,August,21,7,19,548,1644,Wednesday,Wednesday,1644
+698,C060,64,3,29-08-2023,20:44:11,06-09-2023,15:00:13,Ozhukarai,Raksha Bandhan,August,20,8,15,1878,5634,Tuesday,Wednesday,5634
+703,C070,53,4,23-08-2023,16:19:39,01-09-2023,06:12:05,Khammam,Raksha Bandhan,August,16,9,6,1672,6688,Wednesday,Friday,6688
+704,C061,55,4,29-08-2023,02:27:10,30-08-2023,13:36:34,Jalgaon,Raksha Bandhan,August,2,1,13,1904,7616,Tuesday,Wednesday,7616
+709,C016,53,5,29-08-2023,04:38:05,07-09-2023,17:29:15,Kolkata,Raksha Bandhan,August,4,9,17,1672,8360,Tuesday,Thursday,8360
+726,C044,34,2,21-08-2023,19:10:31,31-08-2023,18:54:28,Hindupur,Raksha Bandhan,August,19,10,18,1335,2670,Monday,Thursday,2670
+730,C097,59,1,22-08-2023,02:04:03,25-08-2023,22:39:30,Sangli-Miraj & Kupwad,Raksha Bandhan,August,2,3,22,811,811,Tuesday,Friday,811
+731,C083,59,5,25-08-2023,12:01:20,02-09-2023,11:02:31,Bulandshahr,Raksha Bandhan,August,12,8,11,811,4055,Friday,Saturday,4055
+741,C072,53,5,23-08-2023,12:47:09,01-09-2023,21:37:19,Siwan,Raksha Bandhan,August,12,9,21,1672,8360,Wednesday,Friday,8360
+742,C089,53,5,24-08-2023,19:50:07,26-08-2023,15:58:06,Panchkula,Raksha Bandhan,August,19,2,15,1672,8360,Thursday,Saturday,8360
+769,C029,28,2,25-08-2023,09:37:39,02-09-2023,20:10:20,Ongole,Raksha Bandhan,August,9,8,20,1778,3556,Friday,Saturday,3556
+771,C056,9,2,26-08-2023,17:00:07,01-09-2023,10:54:16,Vijayanagaram,Raksha Bandhan,August,17,6,10,1605,3210,Saturday,Friday,3210
+783,C024,55,5,28-08-2023,04:31:27,29-08-2023,05:10:51,Visakhapatnam,Raksha Bandhan,August,4,1,5,1904,9520,Monday,Tuesday,9520
+787,C069,9,1,25-08-2023,21:42:12,27-08-2023,14:10:59,Ambarnath,Raksha Bandhan,August,21,2,14,1605,1605,Friday,Sunday,1605
+788,C099,53,3,24-08-2023,04:58:58,27-08-2023,08:56:52,Durgapur,Raksha Bandhan,August,4,3,8,1672,5016,Thursday,Sunday,5016
+808,C002,9,2,29-08-2023,15:36:39,30-08-2023,10:11:21,Raurkela Industrial Township,Raksha Bandhan,August,15,1,10,1605,3210,Tuesday,Wednesday,3210
+817,C066,21,2,28-08-2023,05:37:00,01-09-2023,22:05:03,Jalandhar,Raksha Bandhan,August,5,4,22,1561,3122,Monday,Friday,3122
+819,C052,55,5,22-08-2023,13:05:23,24-08-2023,01:32:28,Kottayam,Raksha Bandhan,August,13,2,1,1904,9520,Tuesday,Thursday,9520
+820,C033,64,3,22-08-2023,05:51:43,26-08-2023,04:52:23,Hapur,Raksha Bandhan,August,5,4,4,1878,5634,Tuesday,Saturday,5634
+823,C087,64,3,27-08-2023,15:23:25,01-09-2023,14:52:40,Alappuzha,Raksha Bandhan,August,15,5,14,1878,5634,Sunday,Friday,5634
+827,C086,9,1,29-08-2023,22:10:46,30-08-2023,00:51:55,Surendranagar Dudhrej,Raksha Bandhan,August,22,1,0,1605,1605,Tuesday,Wednesday,1605
+850,C092,21,4,23-08-2023,23:15:17,25-08-2023,10:31:01,Darbhanga,Raksha Bandhan,August,23,2,10,1561,6244,Wednesday,Friday,6244
+856,C077,21,2,27-08-2023,17:40:11,02-09-2023,16:16:50,Kanpur,Raksha Bandhan,August,17,6,16,1561,3122,Sunday,Saturday,3122
+873,C027,64,4,26-08-2023,10:57:00,05-09-2023,15:45:27,Nandyal,Raksha Bandhan,August,10,10,15,1878,7512,Saturday,Tuesday,7512
+880,C044,34,5,29-08-2023,22:14:26,31-08-2023,04:54:50,Purnia,Raksha Bandhan,August,22,2,4,1335,6675,Tuesday,Thursday,6675
+881,C015,28,4,21-08-2023,15:17:42,28-08-2023,12:59:45,New Delhi,Raksha Bandhan,August,15,7,12,1778,7112,Monday,Monday,7112
+882,C089,64,2,29-08-2023,05:32:40,08-09-2023,16:14:53,Srikakulam,Raksha Bandhan,August,5,10,16,1878,3756,Tuesday,Friday,3756
+886,C045,53,3,21-08-2023,08:23:02,25-08-2023,19:52:35,Nanded,Raksha Bandhan,August,8,4,19,1672,5016,Monday,Friday,5016
+897,C031,34,5,25-08-2023,07:53:21,01-09-2023,14:02:50,Dhule,Raksha Bandhan,August,7,7,14,1335,6675,Friday,Friday,6675
+901,C043,27,4,22-08-2023,07:55:38,27-08-2023,01:32:30,Deoghar,Raksha Bandhan,August,7,5,1,548,2192,Tuesday,Sunday,2192
+908,C090,28,5,22-08-2023,15:51:25,24-08-2023,22:50:08,Ozhukarai,Raksha Bandhan,August,15,2,22,1778,8890,Tuesday,Thursday,8890
+910,C066,55,4,26-08-2023,02:03:23,04-09-2023,17:03:10,Kamarhati,Raksha Bandhan,August,2,9,17,1904,7616,Saturday,Monday,7616
+912,C062,9,4,29-08-2023,03:09:59,06-09-2023,11:36:14,Ghaziabad,Raksha Bandhan,August,3,8,11,1605,6420,Tuesday,Wednesday,6420
+934,C022,27,5,22-08-2023,00:41:04,23-08-2023,08:38:52,Agartala,Raksha Bandhan,August,0,1,8,548,2740,Tuesday,Wednesday,2740
+935,C046,27,5,20-08-2023,09:38:15,29-08-2023,17:18:37,Kurnool,Raksha Bandhan,August,9,9,17,548,2740,Sunday,Tuesday,2740
+938,C005,59,3,29-08-2023,18:12:49,08-09-2023,01:17:33,Ratlam,Raksha Bandhan,August,18,10,1,811,2433,Tuesday,Friday,2433
+939,C084,9,4,20-08-2023,20:55:05,21-08-2023,04:36:14,Bhilai,Raksha Bandhan,August,20,1,4,1605,6420,Sunday,Monday,6420
+956,C037,34,5,29-08-2023,04:52:24,03-09-2023,14:53:28,Sagar,Raksha Bandhan,August,4,5,14,1335,6675,Tuesday,Sunday,6675
+968,C002,9,2,25-08-2023,23:55:22,01-09-2023,20:24:11,Jaunpur,Raksha Bandhan,August,23,7,20,1605,3210,Friday,Friday,3210
+979,C030,9,4,28-08-2023,18:43:04,31-08-2023,20:12:58,Adoni,Raksha Bandhan,August,18,3,20,1605,6420,Monday,Thursday,6420
+1000,C012,27,4,25-08-2023,01:22:43,31-08-2023,06:57:59,Tadepalligudem,Raksha Bandhan,August,1,6,6,548,2192,Friday,Thursday,2192
+77,C028,42,3,05-08-2023,01:07:11,13-08-2023,16:20:52,Kanpur,All Occasions,August,1,8,16,1744,5232,Saturday,Sunday,5232
+82,C038,70,3,04-08-2023,22:02:05,05-08-2023,14:08:13,Gwalior,Birthday,August,22,1,14,866,2598,Friday,Saturday,2598
+165,C058,40,5,06-08-2023,13:11:16,10-08-2023,08:37:14,Lucknow,Anniversary,August,13,4,8,1923,9615,Sunday,Thursday,9615
+181,C064,10,4,28-08-2023,05:55:22,06-09-2023,04:53:28,Howrah,Birthday,August,5,9,4,259,1036,Monday,Wednesday,1036
+193,C038,42,4,16-08-2023,23:44:29,19-08-2023,02:34:02,Nanded,All Occasions,August,23,3,2,1744,6976,Wednesday,Saturday,6976
+196,C063,30,2,05-08-2023,09:37:50,13-08-2023,08:58:06,Begusarai,Anniversary,August,9,8,8,751,1502,Saturday,Sunday,1502
+198,C090,24,2,27-08-2023,22:33:37,04-09-2023,01:09:50,Phagwara,Birthday,August,22,8,1,535,1070,Sunday,Monday,1070
+199,C093,70,5,16-08-2023,01:54:30,19-08-2023,16:24:59,Bareilly,Birthday,August,1,3,16,866,4330,Wednesday,Saturday,4330
+268,C053,38,1,14-08-2023,07:45:59,23-08-2023,16:53:30,Katni,Birthday,August,7,9,16,562,562,Monday,Wednesday,562
+284,C057,17,1,10-08-2023,16:13:04,16-08-2023,11:21:57,Aurangabad,Anniversary,August,16,6,11,1899,1899,Thursday,Wednesday,1899
+289,C018,30,4,29-08-2023,23:40:01,06-09-2023,02:50:06,Imphal,Anniversary,August,23,8,2,751,3004,Tuesday,Wednesday,3004
+300,C032,22,1,29-08-2023,19:20:05,08-09-2023,18:25:16,Tinsukia,All Occasions,August,19,10,18,1639,1639,Tuesday,Friday,1639
+310,C061,38,3,20-08-2023,12:24:22,24-08-2023,15:42:48,Bhalswa Jahangir Pur,Birthday,August,12,4,15,562,1686,Sunday,Thursday,1686
+329,C095,17,3,26-08-2023,02:22:03,04-09-2023,03:08:52,Nashik,Anniversary,August,2,9,3,1899,5697,Saturday,Monday,5697
+369,C014,63,3,07-08-2023,07:23:44,15-08-2023,04:28:30,Jammu,All Occasions,August,7,8,4,1348,4044,Monday,Tuesday,4044
+421,C066,38,4,08-08-2023,20:16:30,12-08-2023,19:04:00,Serampore,Birthday,August,20,4,19,562,2248,Tuesday,Saturday,2248
+481,C044,12,5,21-08-2023,00:00:53,25-08-2023,18:36:25,Bhiwandi,Anniversary,August,0,4,18,672,3360,Monday,Friday,3360
+489,C072,10,1,28-08-2023,22:26:56,02-09-2023,04:30:46,Kirari Suleman Nagar,Birthday,August,22,5,4,259,259,Monday,Saturday,259
+495,C007,20,1,28-08-2023,17:42:29,29-08-2023,22:51:31,Pimpri-Chinchwad,Anniversary,August,17,1,22,697,697,Monday,Tuesday,697
+524,C084,45,1,15-08-2023,13:54:54,22-08-2023,12:29:47,Jalandhar,Birthday,August,13,7,12,722,722,Tuesday,Tuesday,722
+530,C008,5,2,19-08-2023,10:45:21,27-08-2023,00:23:56,Delhi,All Occasions,August,10,8,0,1444,2888,Saturday,Sunday,2888
+553,C084,39,2,22-08-2023,01:22:41,26-08-2023,07:43:27,Alwar,All Occasions,August,1,4,7,387,774,Tuesday,Saturday,774
+560,C019,39,2,04-08-2023,12:52:20,09-08-2023,09:50:53,Avadi,All Occasions,August,12,5,9,387,774,Friday,Wednesday,774
+562,C066,24,4,09-08-2023,09:18:20,16-08-2023,01:34:07,Ranchi,Birthday,August,9,7,1,535,2140,Wednesday,Wednesday,2140
+692,C035,15,2,11-08-2023,07:04:55,18-08-2023,06:44:37,Tiruppur,Anniversary,August,7,7,6,1488,2976,Friday,Friday,2976
+716,C076,40,3,19-08-2023,23:18:12,26-08-2023,01:39:58,Berhampore,Anniversary,August,23,7,1,1923,5769,Saturday,Saturday,5769
+764,C039,65,3,01-08-2023,19:59:36,05-08-2023,09:24:36,Berhampur,All Occasions,August,19,4,9,1895,5685,Tuesday,Saturday,5685
+855,C033,57,5,07-08-2023,23:50:11,17-08-2023,20:15:43,Allahabad,Birthday,August,23,10,20,1582,7910,Monday,Thursday,7910
+866,C021,15,5,10-08-2023,20:06:37,11-08-2023,08:02:41,Medininagar,Anniversary,August,20,1,8,1488,7440,Thursday,Friday,7440
+868,C099,32,1,22-08-2023,01:01:17,30-08-2023,10:09:12,Anand,Birthday,August,1,8,10,1792,1792,Tuesday,Wednesday,1792
+889,C050,36,3,16-08-2023,23:06:44,18-08-2023,10:05:02,Bangalore,Birthday,August,23,2,10,203,609,Wednesday,Friday,609
+969,C004,42,4,30-08-2023,22:56:34,03-09-2023,03:22:59,Khammam,All Occasions,August,22,4,3,1744,6976,Wednesday,Sunday,6976
+984,C058,65,1,03-08-2023,22:31:02,07-08-2023,16:39:11,Ballia,All Occasions,August,22,4,16,1895,1895,Thursday,Monday,1895
+48,C031,65,4,12-11-2023,20:00:30,16-11-2023,05:31:42,Delhi,All Occasions,November,20,4,5,1895,7580,Sunday,Thursday,7580
+99,C050,38,3,04-11-2023,14:00:46,05-11-2023,15:44:38,Burhanpur,Birthday,November,14,1,15,562,1686,Saturday,Sunday,1686
+113,C032,1,3,14-11-2023,15:30:30,23-11-2023,04:26:47,Bulandshahr,All Occasions,November,15,9,4,1935,5805,Tuesday,Thursday,5805
+154,C049,45,5,21-11-2023,23:14:18,25-11-2023,02:04:59,Indore,Birthday,November,23,4,2,722,3610,Tuesday,Saturday,3610
+178,C097,61,1,14-11-2023,23:04:31,16-11-2023,02:14:23,Bhilai,Anniversary,November,23,2,2,810,810,Tuesday,Thursday,810
+189,C016,57,1,19-11-2023,17:22:19,22-11-2023,13:21:54,Srikakulam,Birthday,November,17,3,13,1582,1582,Sunday,Wednesday,1582
+273,C047,10,2,22-11-2023,16:12:35,24-11-2023,01:52:48,Moradabad,Birthday,November,16,2,1,259,518,Wednesday,Friday,518
+279,C067,23,4,24-11-2023,09:14:46,26-11-2023,17:51:23,Chinsurah,Anniversary,November,9,2,17,1098,4392,Friday,Sunday,4392
+283,C086,23,2,23-11-2023,02:51:34,30-11-2023,18:21:40,Erode,Anniversary,November,2,7,18,1098,2196,Thursday,Thursday,2196
+299,C091,8,5,08-11-2023,11:51:21,17-11-2023,13:17:51,Vellore,Anniversary,November,11,9,13,252,1260,Wednesday,Friday,1260
+303,C051,14,1,20-11-2023,06:42:57,29-11-2023,07:08:02,Narasaraopet,Birthday,November,6,9,7,1915,1915,Monday,Wednesday,1915
+335,C013,17,2,06-11-2023,02:09:35,08-11-2023,02:23:24,Sri Ganganagar,Anniversary,November,2,2,2,1899,3798,Monday,Wednesday,3798
+342,C062,36,5,03-11-2023,04:03:43,08-11-2023,16:26:16,Salem,Birthday,November,4,5,16,203,1015,Friday,Wednesday,1015
+348,C060,30,2,28-11-2023,20:33:37,07-12-2023,12:02:59,Kalyan-Dombivli,Anniversary,November,20,9,12,751,1502,Tuesday,Thursday,1502
+363,C022,15,2,27-11-2023,19:01:01,05-12-2023,01:50:36,Bhavnagar,Anniversary,November,19,8,1,1488,2976,Monday,Tuesday,2976
+372,C006,25,3,08-11-2023,19:04:25,18-11-2023,18:28:46,Kamarhati,Anniversary,November,19,10,18,1202,3606,Wednesday,Saturday,3606
+388,C066,36,2,10-11-2023,00:15:10,18-11-2023,10:37:06,Jalna,Birthday,November,0,8,10,203,406,Friday,Saturday,406
+393,C087,17,5,14-11-2023,11:01:18,22-11-2023,16:10:46,Solapur,Anniversary,November,11,8,16,1899,9495,Tuesday,Wednesday,9495
+434,C020,51,4,28-11-2023,07:23:06,29-11-2023,19:43:32,Kirari Suleman Nagar,All Occasions,November,7,1,19,1084,4336,Tuesday,Wednesday,4336
+534,C061,31,2,27-11-2023,03:40:16,04-12-2023,11:22:37,Naihati,All Occasions,November,3,7,11,1804,3608,Monday,Monday,3608
+541,C007,24,3,13-11-2023,05:51:09,16-11-2023,22:56:34,Sasaram,Birthday,November,5,3,22,535,1605,Monday,Thursday,1605
+595,C022,51,4,08-11-2023,13:49:19,15-11-2023,04:06:31,Dhanbad,All Occasions,November,13,7,4,1084,4336,Wednesday,Wednesday,4336
+635,C095,67,1,12-11-2023,18:37:11,22-11-2023,07:23:32,Navi Mumbai,Anniversary,November,18,10,7,1374,1374,Sunday,Wednesday,1374
+653,C076,17,4,29-11-2023,13:38:07,01-12-2023,05:52:11,Bhilwara,Anniversary,November,13,2,5,1899,7596,Wednesday,Friday,7596
+655,C015,17,1,08-11-2023,21:19:04,17-11-2023,18:57:37,Jalna,Anniversary,November,21,9,18,1899,1899,Wednesday,Friday,1899
+727,C061,12,5,18-11-2023,01:37:03,22-11-2023,16:22:32,Anand,Anniversary,November,1,4,16,672,3360,Saturday,Wednesday,3360
+740,C004,56,4,07-11-2023,16:11:58,12-11-2023,10:07:51,Silchar,Anniversary,November,16,5,10,1272,5088,Tuesday,Sunday,5088
+754,C083,51,2,01-11-2023,20:40:33,08-11-2023,22:13:13,Pimpri-Chinchwad,All Occasions,November,20,7,22,1084,2168,Wednesday,Wednesday,2168
+768,C087,1,1,11-11-2023,18:37:41,16-11-2023,12:19:42,Howrah,All Occasions,November,18,5,12,1935,1935,Saturday,Thursday,1935
+807,C006,40,4,29-11-2023,16:20:19,09-12-2023,03:09:57,Bhopal,Anniversary,November,16,10,3,1923,7692,Wednesday,Saturday,7692
+839,C072,51,4,02-11-2023,03:51:23,12-11-2023,01:49:51,Udupi,All Occasions,November,3,10,1,1084,4336,Thursday,Sunday,4336
+846,C069,15,4,28-11-2023,02:47:39,02-12-2023,06:56:03,Bhalswa Jahangir Pur,Anniversary,November,2,4,6,1488,5952,Tuesday,Saturday,5952
+909,C084,42,1,04-11-2023,07:43:51,08-11-2023,22:25:25,Hyderabad,All Occasions,November,7,4,22,1744,1744,Saturday,Wednesday,1744
+928,C012,23,3,19-11-2023,11:06:24,27-11-2023,10:16:12,Bihar Sharif,Anniversary,November,11,8,10,1098,3294,Sunday,Monday,3294
+933,C038,51,3,14-11-2023,12:17:01,23-11-2023,02:50:02,Muzaffarnagar,All Occasions,November,12,9,2,1084,3252,Tuesday,Thursday,3252
+944,C024,67,4,17-11-2023,20:34:33,21-11-2023,16:40:40,Amravati,Anniversary,November,20,4,16,1374,5496,Friday,Tuesday,5496
+951,C024,20,1,23-11-2023,15:34:09,25-11-2023,19:03:34,Bongaigaon,Anniversary,November,15,2,19,697,697,Thursday,Saturday,697
+974,C014,17,4,04-11-2023,19:16:59,07-11-2023,16:11:27,Pallavaram,Anniversary,November,19,3,16,1899,7596,Saturday,Tuesday,7596
+986,C086,1,2,03-11-2023,16:41:54,05-11-2023,22:43:28,Bally,All Occasions,November,16,2,22,1935,3870,Friday,Sunday,3870
+2,C019,41,2,07-11-2023,23:30:18,13-11-2023,07:16:17,Jaipur,Diwali,November,23,6,7,1977,3954,Tuesday,Monday,3954
+50,C014,41,4,09-11-2023,06:56:33,16-11-2023,10:19:22,Jamalpur,Diwali,November,6,7,10,1977,7908,Thursday,Thursday,7908
+8,C097,43,3,08-11-2023,19:20:02,14-11-2023,08:44:45,Morena,Diwali,November,19,6,8,750,2250,Wednesday,Tuesday,2250
+22,C054,43,1,09-11-2023,01:05:28,14-11-2023,09:49:47,Tenali,Diwali,November,1,5,9,750,750,Thursday,Tuesday,750
+39,C054,43,2,02-11-2023,19:25:58,04-11-2023,13:28:42,Vellore,Diwali,November,19,2,13,750,1500,Thursday,Saturday,1500
+49,C020,43,1,11-11-2023,17:44:30,18-11-2023,13:49:52,Nangloi Jat,Diwali,November,17,7,13,750,750,Saturday,Saturday,750
+14,C042,60,1,08-11-2023,03:46:06,15-11-2023,12:08:02,Bilaspur,Diwali,November,3,7,12,827,827,Wednesday,Wednesday,827
+17,C056,60,2,04-11-2023,11:31:33,13-11-2023,18:40:13,Kota,Diwali,November,11,9,18,827,1654,Saturday,Monday,1654
+38,C067,37,3,11-11-2023,12:30:28,14-11-2023,12:24:51,Indore,Diwali,November,12,3,12,1428,4284,Saturday,Tuesday,4284
+40,C066,48,4,02-11-2023,14:15:10,05-11-2023,04:29:54,Raiganj,Diwali,November,14,3,4,433,1732,Thursday,Sunday,1732
+61,C058,44,2,08-11-2023,22:26:25,10-11-2023,08:08:31,Panihati,Diwali,November,22,2,8,794,1588,Wednesday,Friday,1588
+76,C054,4,1,09-11-2023,05:13:11,12-11-2023,00:34:50,Anand,Diwali,November,5,3,0,1199,1199,Thursday,Sunday,1199
+90,C088,41,3,09-11-2023,20:54:16,18-11-2023,17:48:35,Shahjahanpur,Diwali,November,20,9,17,1977,5931,Thursday,Saturday,5931
+97,C041,41,1,03-11-2023,20:11:32,08-11-2023,01:35:25,Bhavnagar,Diwali,November,20,5,1,1977,1977,Friday,Wednesday,1977
+106,C095,41,2,06-11-2023,17:55:46,08-11-2023,23:00:28,Chinsurah,Diwali,November,17,2,23,1977,3954,Monday,Wednesday,3954
+107,C041,4,3,06-11-2023,10:18:07,12-11-2023,14:20:21,Gorakhpur,Diwali,November,10,6,14,1199,3597,Monday,Sunday,3597
+112,C023,37,3,11-11-2023,06:36:04,14-11-2023,15:50:59,Kochi,Diwali,November,6,3,15,1428,4284,Saturday,Tuesday,4284
+116,C009,4,3,11-11-2023,14:28:05,20-11-2023,05:25:26,Howrah,Diwali,November,14,9,5,1199,3597,Saturday,Monday,3597
+127,C051,60,4,02-11-2023,14:04:38,03-11-2023,19:25:01,Dhanbad,Diwali,November,14,1,19,827,3308,Thursday,Friday,3308
+133,C018,43,5,10-11-2023,15:51:54,16-11-2023,11:22:51,Tiruppur,Diwali,November,15,6,11,750,3750,Friday,Thursday,3750
+151,C051,43,1,03-11-2023,21:42:26,10-11-2023,03:56:02,Jalna,Diwali,November,21,7,3,750,750,Friday,Friday,750
+159,C095,43,3,09-11-2023,21:31:39,11-11-2023,04:55:56,Davanagere,Diwali,November,21,2,4,750,2250,Thursday,Saturday,2250
+166,C035,4,3,07-11-2023,23:05:28,10-11-2023,06:12:46,Madanapalle,Diwali,November,23,3,6,1199,3597,Tuesday,Friday,3597
+167,C019,37,4,04-11-2023,01:26:51,07-11-2023,15:16:27,Nangloi Jat,Diwali,November,1,3,15,1428,5712,Saturday,Tuesday,5712
+174,C048,4,3,03-11-2023,15:39:20,13-11-2023,18:06:46,Malda,Diwali,November,15,10,18,1199,3597,Friday,Monday,3597
+183,C082,48,3,09-11-2023,18:11:41,11-11-2023,15:29:26,Bahraich,Diwali,November,18,2,15,433,1299,Thursday,Saturday,1299
+190,C096,60,5,09-11-2023,12:33:49,13-11-2023,13:41:24,Darbhanga,Diwali,November,12,4,13,827,4135,Thursday,Monday,4135
+250,C086,37,5,08-11-2023,15:07:27,09-11-2023,01:32:06,Korba,Diwali,November,15,1,1,1428,7140,Wednesday,Thursday,7140
+256,C065,4,5,06-11-2023,19:13:49,14-11-2023,18:05:55,Suryapet,Diwali,November,19,8,18,1199,5995,Monday,Tuesday,5995
+261,C041,37,3,06-11-2023,14:03:50,12-11-2023,20:17:47,Malegaon,Diwali,November,14,6,20,1428,4284,Monday,Sunday,4284
+274,C078,41,5,02-11-2023,06:37:51,12-11-2023,20:53:36,Raebareli,Diwali,November,6,10,20,1977,9885,Thursday,Sunday,9885
+282,C092,41,2,11-11-2023,10:20:49,19-11-2023,22:11:40,Mangalore,Diwali,November,10,8,22,1977,3954,Saturday,Sunday,3954
+309,C071,60,4,10-11-2023,06:38:43,13-11-2023,05:14:33,Mangalore,Diwali,November,6,3,5,827,3308,Friday,Monday,3308
+314,C029,43,4,05-11-2023,11:48:41,15-11-2023,04:55:25,Patiala,Diwali,November,11,10,4,750,3000,Sunday,Wednesday,3000
+331,C023,41,5,04-11-2023,21:49:56,05-11-2023,14:13:32,Patna,Diwali,November,21,1,14,1977,9885,Saturday,Sunday,9885
+349,C017,44,4,11-11-2023,03:32:37,12-11-2023,10:31:13,Junagadh,Diwali,November,3,1,10,794,3176,Saturday,Sunday,3176
+360,C099,41,1,06-11-2023,03:11:57,09-11-2023,17:45:31,Belgaum,Diwali,November,3,3,17,1977,1977,Monday,Thursday,1977
+364,C003,43,3,08-11-2023,06:09:01,09-11-2023,04:37:33,Satara,Diwali,November,6,1,4,750,2250,Wednesday,Thursday,2250
+374,C087,4,1,07-11-2023,07:47:32,09-11-2023,22:32:44,Guna,Diwali,November,7,2,22,1199,1199,Tuesday,Thursday,1199
+380,C009,60,4,08-11-2023,13:33:02,15-11-2023,23:40:37,Bidhannagar,Diwali,November,13,7,23,827,3308,Wednesday,Wednesday,3308
+383,C016,37,1,06-11-2023,00:16:45,08-11-2023,20:09:52,Panchkula,Diwali,November,0,2,20,1428,1428,Monday,Wednesday,1428
+392,C085,4,2,05-11-2023,03:18:55,06-11-2023,18:53:09,Gangtok,Diwali,November,3,1,18,1199,2398,Sunday,Monday,2398
+397,C034,4,5,09-11-2023,06:48:09,14-11-2023,13:32:34,Junagadh,Diwali,November,6,5,13,1199,5995,Thursday,Tuesday,5995
+411,C006,48,1,05-11-2023,16:31:34,08-11-2023,07:21:26,Nadiad,Diwali,November,16,3,7,433,433,Sunday,Wednesday,433
+427,C042,48,5,03-11-2023,07:56:32,13-11-2023,22:46:12,Gudivada,Diwali,November,7,10,22,433,2165,Friday,Monday,2165
+444,C021,60,3,02-11-2023,01:01:13,09-11-2023,09:54:20,Jalna,Diwali,November,1,7,9,827,2481,Thursday,Thursday,2481
+462,C069,60,5,04-11-2023,18:10:06,13-11-2023,14:20:14,Kirari Suleman Nagar,Diwali,November,18,9,14,827,4135,Saturday,Monday,4135
+485,C029,43,4,06-11-2023,19:20:24,14-11-2023,19:27:14,Bhubaneswar,Diwali,November,19,8,19,750,3000,Monday,Tuesday,3000
+512,C008,41,1,05-11-2023,02:42:41,11-11-2023,13:10:40,Ranchi,Diwali,November,2,6,13,1977,1977,Sunday,Saturday,1977
+517,C064,60,5,09-11-2023,01:01:13,17-11-2023,19:04:55,Aligarh,Diwali,November,1,8,19,827,4135,Thursday,Friday,4135
+587,C018,43,1,02-11-2023,00:51:24,03-11-2023,10:41:06,Panchkula,Diwali,November,0,1,10,750,750,Thursday,Friday,750
+598,C054,37,3,11-11-2023,02:51:23,18-11-2023,21:53:27,Ratlam,Diwali,November,2,7,21,1428,4284,Saturday,Saturday,4284
+602,C042,43,5,02-11-2023,10:17:25,11-11-2023,06:02:00,Buxar,Diwali,November,10,9,6,750,3750,Thursday,Saturday,3750
+613,C063,4,5,10-11-2023,17:54:34,14-11-2023,19:18:27,Gwalior,Diwali,November,17,4,19,1199,5995,Friday,Tuesday,5995
+616,C006,44,5,08-11-2023,23:57:57,12-11-2023,19:20:59,Phagwara,Diwali,November,23,4,19,794,3970,Wednesday,Sunday,3970
+618,C073,60,4,05-11-2023,16:09:13,15-11-2023,17:21:36,Lucknow,Diwali,November,16,10,17,827,3308,Sunday,Wednesday,3308
+622,C084,4,4,08-11-2023,14:13:32,09-11-2023,15:59:02,Bhiwandi,Diwali,November,14,1,15,1199,4796,Wednesday,Thursday,4796
+623,C045,37,2,08-11-2023,13:37:50,18-11-2023,14:25:39,Lucknow,Diwali,November,13,10,14,1428,2856,Wednesday,Saturday,2856
+642,C021,44,5,02-11-2023,05:26:04,07-11-2023,00:29:51,Kozhikode,Diwali,November,5,5,0,794,3970,Thursday,Tuesday,3970
+648,C040,41,3,05-11-2023,19:06:16,09-11-2023,08:25:00,Chittoor,Diwali,November,19,4,8,1977,5931,Sunday,Thursday,5931
+649,C053,43,3,02-11-2023,03:05:41,11-11-2023,08:55:15,Naihati,Diwali,November,3,9,8,750,2250,Thursday,Saturday,2250
+667,C052,44,3,04-11-2023,08:26:58,07-11-2023,10:30:59,Alwar,Diwali,November,8,3,10,794,2382,Saturday,Tuesday,2382
+672,C049,44,5,07-11-2023,14:06:15,09-11-2023,06:46:37,Saharanpur,Diwali,November,14,2,6,794,3970,Tuesday,Thursday,3970
+677,C045,37,5,04-11-2023,07:54:01,14-11-2023,05:32:35,Panihati,Diwali,November,7,10,5,1428,7140,Saturday,Tuesday,7140
+690,C083,48,2,02-11-2023,21:13:25,05-11-2023,21:32:48,Jaunpur,Diwali,November,21,3,21,433,866,Thursday,Sunday,866
+691,C002,48,5,06-11-2023,05:22:43,10-11-2023,11:08:26,Naihati,Diwali,November,5,4,11,433,2165,Monday,Friday,2165
+693,C041,4,5,04-11-2023,23:48:55,07-11-2023,05:31:27,Ghaziabad,Diwali,November,23,3,5,1199,5995,Saturday,Tuesday,5995
+701,C080,41,5,07-11-2023,10:57:34,11-11-2023,04:56:26,Tezpur,Diwali,November,10,4,4,1977,9885,Tuesday,Saturday,9885
+702,C067,60,1,10-11-2023,08:44:24,18-11-2023,06:26:10,Giridih,Diwali,November,8,8,6,827,827,Friday,Saturday,827
+713,C081,37,3,08-11-2023,23:24:22,15-11-2023,22:51:21,Tiruppur,Diwali,November,23,7,22,1428,4284,Wednesday,Wednesday,4284
+743,C045,4,2,09-11-2023,13:28:07,13-11-2023,01:16:24,Tiruppur,Diwali,November,13,4,1,1199,2398,Thursday,Monday,2398
+745,C052,44,1,07-11-2023,09:12:26,09-11-2023,00:30:04,Kolkata,Diwali,November,9,2,0,794,794,Tuesday,Thursday,794
+753,C045,60,1,06-11-2023,06:55:38,12-11-2023,04:49:01,Tinsukia,Diwali,November,6,6,4,827,827,Monday,Sunday,827
+759,C084,48,5,02-11-2023,06:12:14,11-11-2023,06:06:56,Bathinda,Diwali,November,6,9,6,433,2165,Thursday,Saturday,2165
+765,C055,41,2,03-11-2023,02:37:40,06-11-2023,03:52:27,Ambala,Diwali,November,2,3,3,1977,3954,Friday,Monday,3954
+776,C051,43,1,09-11-2023,07:28:54,12-11-2023,21:39:04,Alwar,Diwali,November,7,3,21,750,750,Thursday,Sunday,750
+792,C015,43,2,09-11-2023,07:00:56,10-11-2023,05:14:12,Munger,Diwali,November,7,1,5,750,1500,Thursday,Friday,1500
+822,C075,41,5,09-11-2023,03:23:06,12-11-2023,04:15:17,Indore,Diwali,November,3,3,4,1977,9885,Thursday,Sunday,9885
+834,C029,60,5,03-11-2023,18:35:20,12-11-2023,14:01:49,Thrissur,Diwali,November,18,9,14,827,4135,Friday,Sunday,4135
+836,C020,44,5,08-11-2023,02:36:05,11-11-2023,03:11:27,Tumkur,Diwali,November,2,3,3,794,3970,Wednesday,Saturday,3970
+847,C009,44,4,07-11-2023,18:10:17,12-11-2023,10:21:36,Bareilly,Diwali,November,18,5,10,794,3176,Tuesday,Sunday,3176
+852,C035,44,2,11-11-2023,09:41:46,14-11-2023,14:15:30,Ozhukarai,Diwali,November,9,3,14,794,1588,Saturday,Tuesday,1588
+858,C046,44,4,08-11-2023,01:51:48,09-11-2023,16:01:24,Saharanpur,Diwali,November,1,1,16,794,3176,Wednesday,Thursday,3176
+859,C047,43,1,10-11-2023,07:06:21,15-11-2023,01:46:27,Varanasi,Diwali,November,7,5,1,750,750,Friday,Wednesday,750
+867,C014,48,1,02-11-2023,12:22:06,04-11-2023,05:08:47,Hajipur,Diwali,November,12,2,5,433,433,Thursday,Saturday,433
+870,C018,43,5,05-11-2023,15:13:46,07-11-2023,06:49:39,Pallavaram,Diwali,November,15,2,6,750,3750,Sunday,Tuesday,3750
+876,C016,4,4,06-11-2023,09:38:36,14-11-2023,20:47:44,Jaunpur,Diwali,November,9,8,20,1199,4796,Monday,Tuesday,4796
+878,C057,4,2,10-11-2023,16:36:59,19-11-2023,16:45:34,Singrauli,Diwali,November,16,9,16,1199,2398,Friday,Sunday,2398
+927,C100,43,4,03-11-2023,06:38:15,11-11-2023,05:00:17,Gopalpur,Diwali,November,6,8,5,750,3000,Friday,Saturday,3000
+936,C045,43,4,02-11-2023,21:26:31,08-11-2023,10:03:32,Bardhaman,Diwali,November,21,6,10,750,3000,Thursday,Wednesday,3000
+954,C063,44,3,02-11-2023,04:01:43,03-11-2023,18:21:01,Ballia,Diwali,November,4,1,18,794,2382,Thursday,Friday,2382
+960,C032,48,3,05-11-2023,05:25:49,08-11-2023,09:56:17,Nadiad,Diwali,November,5,3,9,433,1299,Sunday,Wednesday,1299
+988,C020,4,3,10-11-2023,09:47:17,15-11-2023,10:29:19,Mau,Diwali,November,9,5,10,1199,3597,Friday,Wednesday,3597
+992,C091,43,3,02-11-2023,14:09:04,03-11-2023,19:32:39,Chittoor,Diwali,November,14,1,19,750,2250,Thursday,Friday,2250
+998,C046,44,1,06-11-2023,16:17:11,14-11-2023,04:33:25,Ballia,Diwali,November,16,8,4,794,794,Monday,Tuesday,794
+60,C023,5,2,13-12-2023,06:46:45,15-12-2023,13:03:56,Darbhanga,All Occasions,December,6,2,13,1444,2888,Wednesday,Friday,2888
+46,C059,22,4,18-04-2023,03:21:11,23-04-2023,08:02:45,Guna,All Occasions,April,3,5,8,1639,6556,Tuesday,Sunday,6556
+24,C018,42,3,25-07-2023,05:10:42,03-08-2023,07:57:35,Durg,All Occasions,July,5,9,7,1744,5232,Tuesday,Thursday,5232
+28,C088,42,3,05-05-2023,03:25:25,10-05-2023,07:55:04,Guwahati,All Occasions,May,3,5,7,1744,5232,Friday,Wednesday,5232
+63,C056,42,3,25-06-2023,06:22:38,26-06-2023,15:40:04,Munger,All Occasions,June,6,1,15,1744,5232,Sunday,Monday,5232
+59,C041,51,5,26-06-2023,03:56:15,28-06-2023,20:10:04,Thiruvananthapuram,All Occasions,June,3,2,20,1084,5420,Monday,Wednesday,5420
+74,C024,31,3,01-01-2023,20:55:22,07-01-2023,09:02:03,Shivpuri,All Occasions,January,20,6,9,1804,5412,Sunday,Saturday,5412
+75,C009,65,2,06-04-2023,11:10:24,09-04-2023,23:00:34,Bally,All Occasions,April,11,3,23,1895,3790,Thursday,Sunday,3790
+80,C008,39,4,02-01-2023,11:07:02,11-01-2023,02:05:50,Salem,All Occasions,January,11,9,2,387,1548,Monday,Wednesday,1548
+86,C046,39,4,13-09-2023,11:27:49,22-09-2023,14:09:30,Sirsa,All Occasions,September,11,9,14,387,1548,Wednesday,Friday,1548
+100,C055,42,5,09-05-2023,05:50:07,17-05-2023,05:30:26,Bhiwani,All Occasions,May,5,8,5,1744,8720,Tuesday,Wednesday,8720
+104,C082,51,3,29-12-2023,01:45:29,05-01-2024,00:15:28,Ahmednagar,All Occasions,December,1,7,0,1084,3252,Friday,Friday,3252
+144,C090,51,5,18-01-2023,09:01:03,23-01-2023,03:23:15,Srinagar,All Occasions,January,9,5,3,1084,5420,Wednesday,Monday,5420
+149,C008,5,3,06-10-2023,23:23:09,09-10-2023,20:09:12,Mangalore,All Occasions,October,23,3,20,1444,4332,Friday,Monday,4332
+175,C042,31,1,13-10-2023,01:17:47,20-10-2023,07:22:52,Navi Mumbai,All Occasions,October,1,7,7,1804,1804,Friday,Friday,1804
+188,C067,22,5,18-09-2023,01:38:33,25-09-2023,14:02:12,Serampore,All Occasions,September,1,7,14,1639,8195,Monday,Monday,8195
+211,C043,31,5,22-10-2023,18:14:59,29-10-2023,17:40:03,Orai,All Occasions,October,18,7,17,1804,9020,Sunday,Sunday,9020
+218,C061,31,4,13-06-2023,22:55:11,16-06-2023,03:06:01,Gurgaon,All Occasions,June,22,3,3,1804,7216,Tuesday,Friday,7216
+254,C093,1,5,07-07-2023,00:09:44,15-07-2023,05:27:49,Bhilai,All Occasions,July,0,8,5,1935,9675,Friday,Saturday,9675
+278,C044,1,2,20-06-2023,23:33:52,24-06-2023,05:42:44,Ballia,All Occasions,June,23,4,5,1935,3870,Tuesday,Saturday,3870
+293,C003,1,4,04-09-2023,04:03:47,09-09-2023,18:10:36,Tezpur,All Occasions,September,4,5,18,1935,7740,Monday,Saturday,7740
+311,C051,39,2,02-09-2023,09:26:47,12-09-2023,17:51:43,Mehsana,All Occasions,September,9,10,17,387,774,Saturday,Tuesday,774
+327,C048,51,1,24-09-2023,09:29:05,26-09-2023,20:09:05,Muzaffarnagar,All Occasions,September,9,2,20,1084,1084,Sunday,Tuesday,1084
+351,C099,1,1,16-01-2023,15:11:07,25-01-2023,22:29:59,Bhilai,All Occasions,January,15,9,22,1935,1935,Monday,Wednesday,1935
+373,C026,65,2,07-06-2023,20:49:11,10-06-2023,23:57:40,North Dumdum,All Occasions,June,20,3,23,1895,3790,Wednesday,Saturday,3790
+386,C091,5,4,04-06-2023,12:47:45,14-06-2023,21:34:41,Jalandhar,All Occasions,June,12,10,21,1444,5776,Sunday,Wednesday,5776
+387,C061,1,2,30-04-2023,05:38:25,09-05-2023,02:15:58,Ahmedabad,All Occasions,April,5,9,2,1935,3870,Sunday,Tuesday,3870
+391,C083,22,4,29-12-2023,13:44:06,07-01-2024,12:58:41,Bareilly,All Occasions,December,13,9,12,1639,6556,Friday,Sunday,6556
+431,C057,1,4,13-12-2023,19:13:43,19-12-2023,21:02:24,Varanasi,All Occasions,December,19,6,21,1935,7740,Wednesday,Tuesday,7740
+450,C096,39,5,02-12-2023,07:58:05,12-12-2023,10:09:58,Sri Ganganagar,All Occasions,December,7,10,10,387,1935,Saturday,Tuesday,1935
+455,C072,1,2,20-10-2023,22:33:50,25-10-2023,18:04:20,Eluru,All Occasions,October,22,5,18,1935,3870,Friday,Wednesday,3870
+457,C036,22,5,27-05-2023,13:55:39,29-05-2023,16:38:25,Mirzapur,All Occasions,May,13,2,16,1639,8195,Saturday,Monday,8195
+468,C007,5,2,25-07-2023,07:57:26,04-08-2023,01:24:47,Rajahmundry,All Occasions,July,7,10,1,1444,2888,Tuesday,Friday,2888
+469,C051,42,4,15-12-2023,07:06:00,19-12-2023,12:56:49,Kamarhati,All Occasions,December,7,4,12,1744,6976,Friday,Tuesday,6976
+484,C034,1,5,26-05-2023,19:03:55,03-06-2023,19:32:17,Morena,All Occasions,May,19,8,19,1935,9675,Friday,Saturday,9675
+487,C053,51,1,05-01-2023,16:46:57,09-01-2023,04:28:18,Sasaram,All Occasions,January,16,4,4,1084,1084,Thursday,Monday,1084
+502,C099,22,5,24-06-2023,05:33:20,30-06-2023,00:55:44,Munger,All Occasions,June,5,6,0,1639,8195,Saturday,Friday,8195
+516,C020,22,2,05-07-2023,20:52:56,06-07-2023,01:06:20,Gaya,All Occasions,July,20,1,1,1639,3278,Wednesday,Thursday,3278
+537,C064,42,3,17-10-2023,06:19:24,25-10-2023,03:09:08,Korba,All Occasions,October,6,8,3,1744,5232,Tuesday,Wednesday,5232
+540,C082,22,4,06-09-2023,19:07:35,09-09-2023,01:26:00,Morbi,All Occasions,September,19,3,1,1639,6556,Wednesday,Saturday,6556
+552,C064,31,3,10-05-2023,18:59:31,11-05-2023,17:09:07,Tezpur,All Occasions,May,18,1,17,1804,5412,Wednesday,Thursday,5412
+566,C054,42,4,12-05-2023,12:48:03,14-05-2023,20:36:32,Patna,All Occasions,May,12,2,20,1744,6976,Friday,Sunday,6976
+585,C013,63,5,26-04-2023,18:32:41,01-05-2023,01:52:06,Bhubaneswar,All Occasions,April,18,5,1,1348,6740,Wednesday,Monday,6740
+591,C002,31,3,06-07-2023,12:56:00,14-07-2023,00:00:51,Surat,All Occasions,July,12,8,0,1804,5412,Thursday,Friday,5412
+604,C069,39,3,31-01-2023,19:54:56,03-02-2023,21:24:38,Tadipatri,All Occasions,January,19,3,21,387,1161,Tuesday,Friday,1161
+610,C068,5,3,03-01-2023,17:25:41,05-01-2023,00:11:36,Sirsa,All Occasions,January,17,2,0,1444,4332,Tuesday,Thursday,4332
+632,C075,51,1,11-07-2023,22:35:01,12-07-2023,11:32:50,Adoni,All Occasions,July,22,1,11,1084,1084,Tuesday,Wednesday,1084
+638,C060,39,1,23-04-2023,02:13:33,27-04-2023,02:51:20,Mira-Bhayandar,All Occasions,April,2,4,2,387,387,Sunday,Thursday,387
+661,C018,22,2,14-01-2023,23:51:27,19-01-2023,09:50:46,Guwahati,All Occasions,January,23,5,9,1639,3278,Saturday,Thursday,3278
+671,C059,31,4,03-12-2023,06:54:18,07-12-2023,23:16:19,Karnal,All Occasions,December,6,4,23,1804,7216,Sunday,Thursday,7216
+678,C020,31,5,10-09-2023,14:23:59,20-09-2023,10:13:07,Jalna,All Occasions,September,14,10,10,1804,9020,Sunday,Wednesday,9020
+685,C054,22,1,01-09-2023,21:04:40,11-09-2023,08:30:45,Sikar,All Occasions,September,21,10,8,1639,1639,Friday,Monday,1639
+699,C011,1,4,02-06-2023,12:14:44,09-06-2023,23:09:03,Chittoor,All Occasions,June,12,7,23,1935,7740,Friday,Friday,7740
+712,C057,65,5,11-07-2023,13:00:12,13-07-2023,06:34:57,Hazaribagh,All Occasions,July,13,2,6,1895,9475,Tuesday,Thursday,9475
+714,C053,63,2,01-06-2023,19:28:09,03-06-2023,07:54:01,Dhule,All Occasions,June,19,2,7,1348,2696,Thursday,Saturday,2696
+720,C045,22,5,15-12-2023,14:42:41,20-12-2023,06:07:08,Vellore,All Occasions,December,14,5,6,1639,8195,Friday,Wednesday,8195
+724,C059,51,1,08-04-2023,23:02:18,16-04-2023,08:00:19,Pallavaram,All Occasions,April,23,8,8,1084,1084,Saturday,Sunday,1084
+732,C087,1,2,16-10-2023,16:47:12,21-10-2023,18:56:15,Bongaigaon,All Occasions,October,16,5,18,1935,3870,Monday,Saturday,3870
+756,C034,51,4,29-07-2023,18:25:27,03-08-2023,09:56:02,Buxar,All Occasions,July,18,5,9,1084,4336,Saturday,Thursday,4336
+766,C077,1,4,02-07-2023,16:28:53,07-07-2023,00:19:44,Hospet,All Occasions,July,16,5,0,1935,7740,Sunday,Friday,7740
+773,C031,39,4,07-01-2023,02:11:24,13-01-2023,23:47:54,Karaikudi,All Occasions,January,2,6,23,387,1548,Saturday,Friday,1548
+774,C051,65,5,17-06-2023,21:28:21,27-06-2023,03:01:20,Begusarai,All Occasions,June,21,10,3,1895,9475,Saturday,Tuesday,9475
+782,C087,22,4,18-04-2023,05:41:20,26-04-2023,19:25:29,Shimoga,All Occasions,April,5,8,19,1639,6556,Tuesday,Wednesday,6556
+791,C093,51,2,06-05-2023,02:29:51,09-05-2023,06:53:48,Bhubaneswar,All Occasions,May,2,3,6,1084,2168,Saturday,Tuesday,2168
+829,C020,42,4,19-12-2023,18:35:41,26-12-2023,10:18:04,Visakhapatnam,All Occasions,December,18,7,10,1744,6976,Tuesday,Tuesday,6976
+844,C067,51,1,09-10-2023,19:12:55,10-10-2023,09:48:27,Satara,All Occasions,October,19,1,9,1084,1084,Monday,Tuesday,1084
+853,C050,51,3,17-09-2023,21:14:53,23-09-2023,14:27:28,Jorhat,All Occasions,September,21,6,14,1084,3252,Sunday,Saturday,3252
+885,C084,42,2,17-10-2023,19:52:58,21-10-2023,18:46:10,Pudukkottai,All Occasions,October,19,4,18,1744,3488,Tuesday,Saturday,3488
+887,C091,51,3,29-06-2023,17:20:29,30-06-2023,09:55:50,Visakhapatnam,All Occasions,June,17,1,9,1084,3252,Thursday,Friday,3252
+899,C011,63,1,17-12-2023,21:29:55,24-12-2023,00:16:41,Bijapur,All Occasions,December,21,7,0,1348,1348,Sunday,Sunday,1348
+903,C066,63,2,15-09-2023,17:42:23,22-09-2023,19:28:38,Bhusawal,All Occasions,September,17,7,19,1348,2696,Friday,Friday,2696
+911,C071,22,4,23-01-2023,05:18:52,28-01-2023,01:35:19,Nangloi Jat,All Occasions,January,5,5,1,1639,6556,Monday,Saturday,6556
+925,C012,31,1,08-01-2023,00:55:51,12-01-2023,06:39:07,Pallavaram,All Occasions,January,0,4,6,1804,1804,Sunday,Thursday,1804
+932,C038,63,2,29-10-2023,16:32:30,02-11-2023,22:17:11,Durgapur,All Occasions,October,16,4,22,1348,2696,Sunday,Thursday,2696
+942,C024,51,1,23-12-2023,04:59:43,26-12-2023,15:56:22,Surat,All Occasions,December,4,3,15,1084,1084,Saturday,Tuesday,1084
+950,C014,39,3,16-10-2023,19:31:00,18-10-2023,21:09:20,Tiruchirappalli,All Occasions,October,19,2,21,387,1161,Monday,Wednesday,1161
+985,C070,31,4,05-10-2023,11:27:20,13-10-2023,16:53:35,Ludhiana,All Occasions,October,11,8,16,1804,7216,Thursday,Friday,7216
+987,C018,65,3,20-12-2023,09:13:17,25-12-2023,04:10:09,Bulandshahr,All Occasions,December,9,5,4,1895,5685,Wednesday,Monday,5685
+990,C021,42,2,04-12-2023,22:20:00,08-12-2023,23:57:55,Amritsar,All Occasions,December,22,4,23,1744,3488,Monday,Friday,3488
+4,C012,14,5,10-07-2023,04:44:29,19-07-2023,06:33:23,Guwahati,Birthday,July,4,9,6,1915,9575,Monday,Wednesday,9575
+44,C006,14,1,17-07-2023,21:57:56,27-07-2023,10:48:09,Bhavnagar,Birthday,July,21,10,10,1915,1915,Monday,Thursday,1915
+7,C009,45,2,08-05-2023,01:45:13,13-05-2023,10:07:17,Nanded,Birthday,May,1,5,10,722,1444,Monday,Saturday,1444
+29,C064,10,5,22-09-2023,01:06:22,01-10-2023,14:29:16,Kollam,Birthday,September,1,9,14,259,1295,Friday,Sunday,1295
+67,C047,10,2,06-07-2023,17:28:21,14-07-2023,21:11:01,Thrissur,Birthday,July,17,8,21,259,518,Thursday,Friday,518
+12,C097,38,3,12-07-2023,08:28:56,20-07-2023,23:34:57,Karnal,Birthday,July,8,8,23,562,1686,Wednesday,Thursday,1686
+58,C077,36,1,06-01-2023,02:51:30,15-01-2023,08:26:18,Amravati,Birthday,January,2,9,8,203,203,Friday,Sunday,203
+92,C100,18,5,15-05-2023,00:11:18,25-05-2023,11:17:55,Rohtak,Birthday,May,0,10,11,781,3905,Monday,Thursday,3905
+93,C047,24,4,01-05-2023,17:50:59,03-05-2023,18:35:56,Warangal,Birthday,May,17,2,18,535,2140,Monday,Wednesday,2140
+95,C039,70,4,29-05-2023,07:54:41,03-06-2023,07:16:33,Narasaraopet,Birthday,May,7,5,7,866,3464,Monday,Saturday,3464
+101,C064,70,4,19-06-2023,03:56:52,21-06-2023,06:18:37,Belgaum,Birthday,June,3,2,6,866,3464,Monday,Wednesday,3464
+102,C081,10,3,28-10-2023,19:34:14,06-11-2023,07:06:35,Ozhukarai,Birthday,October,19,9,7,259,777,Saturday,Monday,777
+115,C095,57,1,28-04-2023,18:11:22,05-05-2023,11:36:31,Jhansi,Birthday,April,18,7,11,1582,1582,Friday,Friday,1582
+122,C083,24,5,03-10-2023,09:04:23,13-10-2023,03:15:14,Gulbarga,Birthday,October,9,10,3,535,2675,Tuesday,Friday,2675
+123,C026,38,1,15-01-2023,00:31:09,25-01-2023,04:58:43,Malegaon,Birthday,January,0,10,4,562,562,Sunday,Wednesday,562
+130,C070,10,5,22-04-2023,13:32:41,27-04-2023,22:01:54,Darbhanga,Birthday,April,13,5,22,259,1295,Saturday,Thursday,1295
+148,C046,24,3,05-12-2023,02:09:08,07-12-2023,08:57:38,Gopalpur,Birthday,December,2,2,8,535,1605,Tuesday,Thursday,1605
+160,C037,36,3,02-06-2023,00:28:57,10-06-2023,07:52:59,Moradabad,Birthday,June,0,8,7,203,609,Friday,Saturday,609
+164,C063,14,5,25-04-2023,02:04:02,27-04-2023,11:49:33,Berhampore,Birthday,April,2,2,11,1915,9575,Tuesday,Thursday,9575
+185,C068,18,1,07-05-2023,07:10:45,17-05-2023,20:00:43,Raurkela Industrial Township,Birthday,May,7,10,20,781,781,Sunday,Wednesday,781
+191,C012,24,3,12-10-2023,18:13:06,17-10-2023,08:50:02,Etawah,Birthday,October,18,5,8,535,1605,Thursday,Tuesday,1605
+202,C089,36,5,27-07-2023,08:13:48,01-08-2023,03:02:01,Bhimavaram,Birthday,July,8,5,3,203,1015,Thursday,Tuesday,1015
+204,C062,10,4,03-07-2023,10:46:43,09-07-2023,06:29:03,Jaipur,Birthday,July,10,6,6,259,1036,Monday,Sunday,1036
+208,C001,18,5,02-04-2023,04:30:47,12-04-2023,07:06:36,Kulti,Birthday,April,4,10,7,781,3905,Sunday,Wednesday,3905
+209,C071,70,2,22-06-2023,00:44:32,23-06-2023,21:44:32,Hajipur,Birthday,June,0,1,21,866,1732,Thursday,Friday,1732
+210,C095,32,4,10-12-2023,00:46:32,15-12-2023,08:02:35,Aligarh,Birthday,December,0,5,8,1792,7168,Sunday,Friday,7168
+226,C064,14,2,08-09-2023,08:48:50,12-09-2023,11:20:36,Hospet,Birthday,September,8,4,11,1915,3830,Friday,Tuesday,3830
+227,C004,24,4,25-12-2023,18:50:42,26-12-2023,14:09:44,Surat,Birthday,December,18,1,14,535,2140,Monday,Tuesday,2140
+249,C003,14,2,10-09-2023,22:22:16,19-09-2023,23:17:36,Bareilly,Birthday,September,22,9,23,1915,3830,Sunday,Tuesday,3830
+255,C092,45,2,27-12-2023,03:42:35,06-01-2024,09:23:14,Suryapet,Birthday,December,3,10,9,722,1444,Wednesday,Saturday,1444
+266,C038,36,1,12-05-2023,13:46:56,13-05-2023,19:20:09,Sonipat,Birthday,May,13,1,19,203,203,Friday,Saturday,203
+269,C024,36,1,25-10-2023,01:12:12,26-10-2023,17:58:13,Raebareli,Birthday,October,1,1,17,203,203,Wednesday,Thursday,203
+271,C039,36,5,23-06-2023,18:27:42,30-06-2023,18:20:05,Patna,Birthday,June,18,7,18,203,1015,Friday,Friday,1015
+295,C079,18,1,29-05-2023,15:54:09,02-06-2023,10:06:42,Tadepalligudem,Birthday,May,15,4,10,781,781,Monday,Friday,781
+296,C081,70,5,01-04-2023,11:55:14,11-04-2023,19:33:46,Tirunelveli,Birthday,April,11,10,19,866,4330,Saturday,Tuesday,4330
+337,C008,24,3,16-05-2023,14:21:12,22-05-2023,20:26:13,Siwan,Birthday,May,14,6,20,535,1605,Tuesday,Monday,1605
+340,C076,38,3,14-07-2023,07:53:01,22-07-2023,02:56:01,Davanagere,Birthday,July,7,8,2,562,1686,Friday,Saturday,1686
+345,C056,45,4,15-09-2023,15:40:42,23-09-2023,23:11:31,Bellary,Birthday,September,15,8,23,722,2888,Friday,Saturday,2888
+355,C099,10,1,24-12-2023,04:52:44,02-01-2024,09:38:33,Satara,Birthday,December,4,9,9,259,259,Sunday,Tuesday,259
+356,C028,14,1,08-07-2023,00:41:40,09-07-2023,04:31:42,Panvel,Birthday,July,0,1,4,1915,1915,Saturday,Sunday,1915
+376,C097,10,2,14-05-2023,20:18:32,19-05-2023,23:48:02,Bulandshahr,Birthday,May,20,5,23,259,518,Sunday,Friday,518
+382,C003,24,1,03-06-2023,10:02:19,13-06-2023,21:53:48,Kamarhati,Birthday,June,10,10,21,535,535,Saturday,Tuesday,535
+400,C083,45,3,07-05-2023,14:05:01,15-05-2023,18:10:53,Kumbakonam,Birthday,May,14,8,18,722,2166,Sunday,Monday,2166
+403,C075,57,1,06-01-2023,11:45:28,16-01-2023,20:13:26,Chapra,Birthday,January,11,10,20,1582,1582,Friday,Monday,1582
+410,C025,24,1,01-01-2023,20:20:49,02-01-2023,05:57:06,Surendranagar Dudhrej,Birthday,January,20,1,5,535,535,Sunday,Monday,535
+415,C065,14,4,08-06-2023,20:08:30,10-06-2023,01:20:56,Hajipur,Birthday,June,20,2,1,1915,7660,Thursday,Saturday,7660
+428,C038,10,2,06-12-2023,03:32:38,12-12-2023,19:37:01,Khora,Birthday,December,3,6,19,259,518,Wednesday,Tuesday,518
+452,C045,70,3,09-07-2023,19:57:29,17-07-2023,11:42:18,Mahbubnagar,Birthday,July,19,8,11,866,2598,Sunday,Monday,2598
+458,C054,32,2,19-07-2023,17:21:30,24-07-2023,20:32:44,Ramgarh,Birthday,July,17,5,20,1792,3584,Wednesday,Monday,3584
+463,C078,18,3,24-09-2023,22:23:47,30-09-2023,00:52:03,Hazaribagh,Birthday,September,22,6,0,781,2343,Sunday,Saturday,2343
+464,C014,18,3,05-07-2023,03:04:25,08-07-2023,13:38:45,Buxar,Birthday,July,3,3,13,781,2343,Wednesday,Saturday,2343
+486,C030,24,1,25-07-2023,14:34:30,30-07-2023,16:58:35,Ambattur,Birthday,July,14,5,16,535,535,Tuesday,Sunday,535
+505,C028,45,3,02-06-2023,13:19:25,05-06-2023,01:59:32,Allahabad,Birthday,June,13,3,1,722,2166,Friday,Monday,2166
+514,C090,24,1,01-01-2023,09:56:10,09-01-2023,17:56:52,Allahabad,Birthday,January,9,8,17,535,535,Sunday,Monday,535
+515,C078,14,5,21-10-2023,23:22:39,27-10-2023,14:59:49,Unnao,Birthday,October,23,6,14,1915,9575,Saturday,Friday,9575
+518,C045,45,3,09-04-2023,04:46:41,15-04-2023,19:40:46,Ahmednagar,Birthday,April,4,6,19,722,2166,Sunday,Saturday,2166
+520,C026,14,5,07-04-2023,04:43:51,08-04-2023,08:21:40,Mysore,Birthday,April,4,1,8,1915,9575,Friday,Saturday,9575
+533,C006,14,3,18-04-2023,07:19:52,20-04-2023,17:43:45,Raurkela Industrial Township,Birthday,April,7,2,17,1915,5745,Tuesday,Thursday,5745
+538,C097,24,5,18-05-2023,13:09:06,19-05-2023,22:36:16,Ghaziabad,Birthday,May,13,1,22,535,2675,Thursday,Friday,2675
+559,C084,45,1,19-12-2023,16:37:11,26-12-2023,18:35:43,Mau,Birthday,December,16,7,18,722,722,Tuesday,Tuesday,722
+568,C056,10,1,29-06-2023,20:55:39,08-07-2023,13:16:14,Bhubaneswar,Birthday,June,20,9,13,259,259,Thursday,Saturday,259
+578,C008,18,4,31-07-2023,18:27:40,06-08-2023,16:43:25,Warangal,Birthday,July,18,6,16,781,3124,Monday,Sunday,3124
+580,C093,24,4,16-06-2023,22:03:12,20-06-2023,12:25:42,Bhatpara,Birthday,June,22,4,12,535,2140,Friday,Tuesday,2140
+581,C082,18,2,02-07-2023,02:08:23,11-07-2023,14:56:59,Anand,Birthday,July,2,9,14,781,1562,Sunday,Tuesday,1562
+605,C068,45,2,21-12-2023,22:21:06,25-12-2023,20:49:33,Kakinada,Birthday,December,22,4,20,722,1444,Thursday,Monday,1444
+631,C044,32,4,13-04-2023,21:41:50,17-04-2023,03:45:03,Gopalpur,Birthday,April,21,4,3,1792,7168,Thursday,Monday,7168
+634,C038,57,3,07-05-2023,06:36:16,11-05-2023,13:43:49,Fatehpur,Birthday,May,6,4,13,1582,4746,Sunday,Thursday,4746
+639,C098,24,1,26-05-2023,02:36:31,31-05-2023,03:18:25,Amaravati,Birthday,May,2,5,3,535,535,Friday,Wednesday,535
+646,C015,38,5,13-05-2023,16:30:10,23-05-2023,09:16:58,Morbi,Birthday,May,16,10,9,562,2810,Saturday,Tuesday,2810
+664,C023,24,2,18-01-2023,11:54:34,28-01-2023,20:22:08,Hajipur,Birthday,January,11,10,20,535,1070,Wednesday,Saturday,1070
+684,C029,70,3,17-09-2023,01:33:50,25-09-2023,02:44:39,Tumkur,Birthday,September,1,8,2,866,2598,Sunday,Monday,2598
+715,C069,38,4,14-04-2023,05:16:43,21-04-2023,16:39:31,Tenali,Birthday,April,5,7,16,562,2248,Friday,Friday,2248
+719,C092,57,3,12-07-2023,07:44:51,19-07-2023,01:51:24,Phagwara,Birthday,July,7,7,1,1582,4746,Wednesday,Wednesday,4746
+733,C060,32,3,01-04-2023,00:51:37,03-04-2023,02:26:43,Ludhiana,Birthday,April,0,2,2,1792,5376,Saturday,Monday,5376
+736,C008,70,5,02-05-2023,03:47:04,11-05-2023,04:38:44,Ghaziabad,Birthday,May,3,9,4,866,4330,Tuesday,Thursday,4330
+739,C094,24,5,30-01-2023,09:43:50,03-02-2023,10:33:33,Berhampur,Birthday,January,9,4,10,535,2675,Monday,Friday,2675
+744,C023,45,4,13-10-2023,17:53:21,14-10-2023,08:02:05,Junagadh,Birthday,October,17,1,8,722,2888,Friday,Saturday,2888
+760,C043,18,1,19-09-2023,02:28:05,21-09-2023,13:29:38,Ghaziabad,Birthday,September,2,2,13,781,781,Tuesday,Thursday,781
+761,C008,24,5,18-04-2023,03:25:13,25-04-2023,11:53:46,Ambala,Birthday,April,3,7,11,535,2675,Tuesday,Tuesday,2675
+799,C084,32,5,22-10-2023,01:50:09,01-11-2023,20:22:26,Patna,Birthday,October,1,10,20,1792,8960,Sunday,Wednesday,8960
+800,C014,24,5,17-06-2023,21:50:22,21-06-2023,07:12:59,Machilipatnam,Birthday,June,21,4,7,535,2675,Saturday,Wednesday,2675
+805,C028,24,3,11-06-2023,14:39:08,14-06-2023,18:07:19,Bareilly,Birthday,June,14,3,18,535,1605,Sunday,Wednesday,1605
+810,C059,24,3,15-12-2023,05:57:14,17-12-2023,12:05:52,New Delhi,Birthday,December,5,2,12,535,1605,Friday,Sunday,1605
+811,C020,14,5,18-10-2023,12:04:11,25-10-2023,21:55:52,Bellary,Birthday,October,12,7,21,1915,9575,Wednesday,Wednesday,9575
+813,C094,32,4,19-01-2023,08:53:43,23-01-2023,22:01:01,Bhind,Birthday,January,8,4,22,1792,7168,Thursday,Monday,7168
+835,C089,32,2,05-07-2023,17:35:53,06-07-2023,23:34:11,Cuttack,Birthday,July,17,1,23,1792,3584,Wednesday,Thursday,3584
+837,C036,14,5,19-12-2023,12:57:12,21-12-2023,00:00:36,Raebareli,Birthday,December,12,2,0,1915,9575,Tuesday,Thursday,9575
+845,C032,57,5,17-10-2023,18:51:16,25-10-2023,02:55:03,Hospet,Birthday,October,18,8,2,1582,7910,Tuesday,Wednesday,7910
+860,C064,14,1,10-01-2023,19:29:59,13-01-2023,13:30:30,Adoni,Birthday,January,19,3,13,1915,1915,Tuesday,Friday,1915
+883,C041,36,4,16-07-2023,19:44:04,17-07-2023,21:03:02,Shahjahanpur,Birthday,July,19,1,21,203,812,Sunday,Monday,812
+900,C027,57,3,07-04-2023,15:09:00,15-04-2023,08:30:53,Sagar,Birthday,April,15,8,8,1582,4746,Friday,Saturday,4746
+920,C026,45,1,29-06-2023,20:23:05,08-07-2023,23:41:37,Gorakhpur,Birthday,June,20,9,23,722,722,Thursday,Saturday,722
+931,C053,14,1,17-04-2023,19:48:12,19-04-2023,10:25:35,Mahbubnagar,Birthday,April,19,2,10,1915,1915,Monday,Wednesday,1915
+940,C082,57,4,11-01-2023,23:38:25,12-01-2023,04:04:53,Orai,Birthday,January,23,1,4,1582,6328,Wednesday,Thursday,6328
+941,C058,18,4,19-05-2023,09:16:07,22-05-2023,10:28:01,Bidar,Birthday,May,9,3,10,781,3124,Friday,Monday,3124
+945,C038,18,2,30-07-2023,12:00:02,06-08-2023,12:44:49,Raebareli,Birthday,July,12,7,12,781,1562,Sunday,Sunday,1562
+947,C100,38,3,06-10-2023,19:16:19,08-10-2023,23:24:47,Nadiad,Birthday,October,19,2,23,562,1686,Friday,Sunday,1686
+955,C015,24,4,03-06-2023,00:30:48,07-06-2023,09:07:26,Singrauli,Birthday,June,0,4,9,535,2140,Saturday,Wednesday,2140
+964,C098,32,4,19-10-2023,06:39:41,23-10-2023,22:22:39,Jammu,Birthday,October,6,4,22,1792,7168,Thursday,Monday,7168
+995,C089,57,2,20-07-2023,00:40:38,27-07-2023,11:42:03,Muzaffarnagar,Birthday,July,0,7,11,1582,3164,Thursday,Thursday,3164
+3,C029,67,5,14-07-2023,19:12:03,19-07-2023,17:39:00,Bilaspur,Anniversary,July,19,5,17,1374,6870,Friday,Wednesday,6870
+33,C047,8,3,15-04-2023,01:37:27,25-04-2023,02:13:27,Amroha,Anniversary,April,1,10,2,252,756,Saturday,Tuesday,756
+23,C041,12,3,05-05-2023,05:28:33,06-05-2023,12:12:24,Ludhiana,Anniversary,May,5,1,12,672,2016,Friday,Saturday,2016
+69,C091,12,4,02-09-2023,19:21:41,08-09-2023,09:30:02,Hyderabad,Anniversary,September,19,6,9,672,2688,Saturday,Friday,2688
+34,C071,17,2,01-10-2023,22:58:15,05-10-2023,05:36:46,Tirupati,Anniversary,October,22,4,5,1899,3798,Sunday,Thursday,3798
+70,C037,17,1,28-09-2023,04:21:09,03-10-2023,11:44:33,Vijayanagaram,Anniversary,September,4,5,11,1899,1899,Thursday,Tuesday,1899
+18,C072,23,4,10-12-2023,10:46:15,11-12-2023,00:20:29,Moradabad,Anniversary,December,10,1,0,1098,4392,Sunday,Monday,4392
+30,C044,23,4,13-01-2023,09:23:33,15-01-2023,13:36:58,Bulandshahr,Anniversary,January,9,2,13,1098,4392,Friday,Sunday,4392
+25,C091,30,3,21-07-2023,10:46:57,24-07-2023,14:28:42,Panipat,Anniversary,July,10,3,14,751,2253,Friday,Monday,2253
+54,C059,30,1,13-04-2023,09:55:01,23-04-2023,14:30:59,Ratlam,Anniversary,April,9,10,14,751,751,Thursday,Sunday,751
+64,C015,25,1,12-06-2023,02:48:39,15-06-2023,22:05:41,Chittoor,Anniversary,June,2,3,22,1202,1202,Monday,Thursday,1202
+41,C047,54,4,08-06-2023,19:19:50,10-06-2023,14:29:42,Saharsa,Anniversary,June,19,2,14,1236,4944,Thursday,Saturday,4944
+65,C033,54,2,01-09-2023,13:02:28,11-09-2023,06:33:52,Berhampur,Anniversary,September,13,10,6,1236,2472,Friday,Monday,2472
+45,C097,61,5,28-04-2023,14:26:26,29-04-2023,06:16:36,Haldia,Anniversary,April,14,1,6,810,4050,Friday,Saturday,4050
+79,C010,40,2,01-06-2023,17:29:30,11-06-2023,07:34:53,Varanasi,Anniversary,June,17,10,7,1923,3846,Thursday,Sunday,3846
+88,C008,15,4,22-12-2023,10:02:31,01-01-2024,12:17:55,Avadi,Anniversary,December,10,10,12,1488,5952,Friday,Monday,5952
+98,C031,8,1,30-10-2023,15:26:00,01-11-2023,16:34:28,Bulandshahr,Anniversary,October,15,2,16,252,252,Monday,Wednesday,252
+111,C009,8,3,21-06-2023,14:18:57,25-06-2023,21:03:57,Ramgarh,Anniversary,June,14,4,21,252,756,Wednesday,Sunday,756
+120,C050,61,1,25-12-2023,22:26:37,31-12-2023,09:57:24,Kalyan-Dombivli,Anniversary,December,22,6,9,810,810,Monday,Sunday,810
+124,C030,67,4,21-07-2023,08:44:55,23-07-2023,05:23:44,Bhilwara,Anniversary,July,8,2,5,1374,5496,Friday,Sunday,5496
+135,C087,30,2,13-12-2023,10:20:09,14-12-2023,15:43:20,Bokaro,Anniversary,December,10,1,15,751,1502,Wednesday,Thursday,1502
+136,C036,56,1,05-09-2023,16:08:59,09-09-2023,22:12:18,Guna,Anniversary,September,16,4,22,1272,1272,Tuesday,Saturday,1272
+139,C055,54,4,11-05-2023,04:14:45,16-05-2023,18:12:44,Amritsar,Anniversary,May,4,5,18,1236,4944,Thursday,Tuesday,4944
+142,C029,23,2,23-10-2023,02:31:13,27-10-2023,04:24:16,Bharatpur,Anniversary,October,2,4,4,1098,2196,Monday,Friday,2196
+155,C023,23,3,01-05-2023,14:46:58,06-05-2023,00:00:30,Sambhal,Anniversary,May,14,5,0,1098,3294,Monday,Saturday,3294
+171,C071,54,3,30-06-2023,11:47:49,08-07-2023,12:27:06,Tiruvottiyur,Anniversary,June,11,8,12,1236,3708,Friday,Saturday,3708
+186,C048,61,1,09-05-2023,09:09:44,11-05-2023,00:16:23,Kollam,Anniversary,May,9,2,0,810,810,Tuesday,Thursday,810
+195,C037,67,5,10-04-2023,05:33:53,17-04-2023,07:51:40,Jamalpur,Anniversary,April,5,7,7,1374,6870,Monday,Monday,6870
+200,C067,23,5,03-01-2023,20:04:16,08-01-2023,23:18:52,Agartala,Anniversary,January,20,5,23,1098,5490,Tuesday,Sunday,5490
+205,C022,46,5,06-07-2023,05:17:21,09-07-2023,11:47:12,Davanagere,Anniversary,July,5,3,11,758,3790,Thursday,Sunday,3790
+215,C098,17,1,21-05-2023,03:54:26,24-05-2023,12:37:34,Katni,Anniversary,May,3,3,12,1899,1899,Sunday,Wednesday,1899
+216,C004,23,1,03-10-2023,15:46:35,08-10-2023,20:46:28,Bhatpara,Anniversary,October,15,5,20,1098,1098,Tuesday,Sunday,1098
+236,C044,23,5,03-09-2023,06:33:52,11-09-2023,02:10:18,Panvel,Anniversary,September,6,8,2,1098,5490,Sunday,Monday,5490
+241,C067,20,2,05-09-2023,09:52:16,07-09-2023,08:58:21,Indore,Anniversary,September,9,2,8,697,1394,Tuesday,Thursday,1394
+247,C052,23,4,11-10-2023,05:58:48,16-10-2023,02:58:46,Gudivada,Anniversary,October,5,5,2,1098,4392,Wednesday,Monday,4392
+258,C044,46,5,16-04-2023,05:40:39,20-04-2023,20:05:32,Vijayawada,Anniversary,April,5,4,20,758,3790,Sunday,Thursday,3790
+272,C016,12,1,08-04-2023,09:40:05,18-04-2023,20:13:56,Kumbakonam,Anniversary,April,9,10,20,672,672,Saturday,Tuesday,672
+276,C065,15,2,28-05-2023,01:34:06,01-06-2023,07:05:33,Muzaffarpur,Anniversary,May,1,4,7,1488,2976,Sunday,Thursday,2976
+281,C008,15,3,21-09-2023,20:36:47,25-09-2023,10:27:14,Nellore,Anniversary,September,20,4,10,1488,4464,Thursday,Monday,4464
+292,C053,54,1,27-09-2023,22:43:35,03-10-2023,01:44:47,Howrah,Anniversary,September,22,6,1,1236,1236,Wednesday,Tuesday,1236
+302,C071,25,4,24-10-2023,13:53:05,25-10-2023,17:13:25,Dhanbad,Anniversary,October,13,1,17,1202,4808,Tuesday,Wednesday,4808
+313,C056,30,2,22-07-2023,19:24:29,26-07-2023,06:06:13,Thane,Anniversary,July,19,4,6,751,1502,Saturday,Wednesday,1502
+322,C056,15,1,11-04-2023,08:32:11,15-04-2023,03:30:27,Udaipur,Anniversary,April,8,4,3,1488,1488,Tuesday,Saturday,1488
+328,C024,23,3,17-04-2023,17:51:38,22-04-2023,08:59:18,Maheshtala,Anniversary,April,17,5,8,1098,3294,Monday,Saturday,3294
+332,C052,20,5,11-04-2023,20:14:13,18-04-2023,14:10:44,Khammam,Anniversary,April,20,7,14,697,3485,Tuesday,Tuesday,3485
+339,C083,8,1,20-09-2023,20:07:19,29-09-2023,10:50:19,Sirsa,Anniversary,September,20,9,10,252,252,Wednesday,Friday,252
+365,C028,8,5,01-06-2023,15:31:47,04-06-2023,10:15:29,Agra,Anniversary,June,15,3,10,252,1260,Thursday,Sunday,1260
+370,C073,54,2,09-07-2023,05:57:39,13-07-2023,19:01:40,Danapur,Anniversary,July,5,4,19,1236,2472,Sunday,Thursday,2472
+371,C090,23,4,15-05-2023,01:27:58,19-05-2023,10:28:47,Davanagere,Anniversary,May,1,4,10,1098,4392,Monday,Friday,4392
+381,C013,25,3,25-01-2023,18:30:03,28-01-2023,06:21:06,Tiruchirappalli,Anniversary,January,18,3,6,1202,3606,Wednesday,Saturday,3606
+384,C004,25,3,11-05-2023,16:57:57,15-05-2023,13:57:13,Bhilai,Anniversary,May,16,4,13,1202,3606,Thursday,Monday,3606
+398,C080,54,1,05-05-2023,08:45:21,15-05-2023,10:01:43,Dehradun,Anniversary,May,8,10,10,1236,1236,Friday,Monday,1236
+412,C081,67,2,28-10-2023,09:28:24,31-10-2023,23:14:27,Maheshtala,Anniversary,October,9,3,23,1374,2748,Saturday,Tuesday,2748
+425,C071,56,1,30-09-2023,00:02:06,09-10-2023,22:59:28,North Dumdum,Anniversary,September,0,9,22,1272,1272,Saturday,Monday,1272
+432,C092,12,4,05-01-2023,12:09:27,13-01-2023,19:40:38,Ballia,Anniversary,January,12,8,19,672,2688,Thursday,Friday,2688
+436,C058,8,1,27-01-2023,06:08:00,03-02-2023,08:15:49,Salem,Anniversary,January,6,7,8,252,252,Friday,Friday,252
+439,C037,12,3,13-12-2023,08:56:11,22-12-2023,12:51:06,Hyderabad,Anniversary,December,8,9,12,672,2016,Wednesday,Friday,2016
+445,C047,30,5,14-06-2023,20:08:42,15-06-2023,14:22:27,Karnal,Anniversary,June,20,1,14,751,3755,Wednesday,Thursday,3755
+461,C083,12,4,22-06-2023,08:12:37,27-06-2023,14:52:56,Srinagar,Anniversary,June,8,5,14,672,2688,Thursday,Tuesday,2688
+466,C053,23,1,03-10-2023,13:58:22,11-10-2023,09:59:41,Bally,Anniversary,October,13,8,9,1098,1098,Tuesday,Wednesday,1098
+471,C092,23,2,31-01-2023,12:09:01,10-02-2023,05:50:06,Tirunelveli,Anniversary,January,12,10,5,1098,2196,Tuesday,Friday,2196
+472,C015,56,1,24-12-2023,07:32:38,30-12-2023,22:46:18,Khammam,Anniversary,December,7,6,22,1272,1272,Sunday,Saturday,1272
+475,C099,46,2,04-12-2023,07:21:23,08-12-2023,13:32:22,Jalgaon,Anniversary,December,7,4,13,758,1516,Monday,Friday,1516
+476,C067,40,2,18-09-2023,01:17:18,20-09-2023,17:53:14,Moradabad,Anniversary,September,1,2,17,1923,3846,Monday,Wednesday,3846
+482,C050,23,3,05-06-2023,20:33:38,14-06-2023,20:56:35,Ludhiana,Anniversary,June,20,9,20,1098,3294,Monday,Wednesday,3294
+491,C095,30,1,24-10-2023,06:14:34,02-11-2023,22:59:20,Muzaffarnagar,Anniversary,October,6,9,22,751,751,Tuesday,Thursday,751
+500,C013,61,2,29-06-2023,10:07:52,05-07-2023,12:14:25,Bongaigaon,Anniversary,June,10,6,12,810,1620,Thursday,Wednesday,1620
+501,C066,46,2,02-09-2023,16:27:41,08-09-2023,07:33:36,Navi Mumbai,Anniversary,September,16,6,7,758,1516,Saturday,Friday,1516
+504,C058,25,1,14-07-2023,13:04:42,24-07-2023,05:20:36,Meerut,Anniversary,July,13,10,5,1202,1202,Friday,Monday,1202
+510,C017,54,5,08-12-2023,13:00:05,17-12-2023,06:14:47,Panipat,Anniversary,December,13,9,6,1236,6180,Friday,Sunday,6180
+523,C071,30,3,02-07-2023,13:37:08,09-07-2023,15:38:36,Muzaffarpur,Anniversary,July,13,7,15,751,2253,Sunday,Sunday,2253
+532,C036,30,5,02-09-2023,13:25:06,10-09-2023,02:55:07,Bharatpur,Anniversary,September,13,8,2,751,3755,Saturday,Sunday,3755
+535,C017,25,3,08-07-2023,21:59:28,11-07-2023,06:30:40,Saharsa,Anniversary,July,21,3,6,1202,3606,Saturday,Tuesday,3606
+539,C056,20,3,09-06-2023,15:39:18,16-06-2023,14:17:05,Jehanabad,Anniversary,June,15,7,14,697,2091,Friday,Friday,2091
+542,C051,54,5,07-07-2023,19:41:20,12-07-2023,09:52:12,Satara,Anniversary,July,19,5,9,1236,6180,Friday,Wednesday,6180
+547,C088,30,5,10-01-2023,02:30:12,19-01-2023,13:56:41,Ahmedabad,Anniversary,January,2,9,13,751,3755,Tuesday,Thursday,3755
+551,C088,67,1,19-04-2023,20:43:42,23-04-2023,15:25:04,Kurnool,Anniversary,April,20,4,15,1374,1374,Wednesday,Sunday,1374
+555,C100,56,4,28-06-2023,12:05:43,30-06-2023,17:58:12,Ratlam,Anniversary,June,12,2,17,1272,5088,Wednesday,Friday,5088
+556,C073,17,1,13-12-2023,15:34:22,21-12-2023,15:49:48,Cuttack,Anniversary,December,15,8,15,1899,1899,Wednesday,Thursday,1899
+564,C007,40,1,07-04-2023,00:40:20,15-04-2023,06:06:57,Gandhinagar,Anniversary,April,0,8,6,1923,1923,Friday,Saturday,1923
+572,C060,25,5,04-06-2023,15:48:37,10-06-2023,10:11:48,Kamarhati,Anniversary,June,15,6,10,1202,6010,Sunday,Saturday,6010
+577,C008,20,4,28-10-2023,14:51:26,05-11-2023,18:50:45,Hazaribagh,Anniversary,October,14,8,18,697,2788,Saturday,Sunday,2788
+583,C025,56,4,18-09-2023,16:47:25,22-09-2023,19:58:33,Hosur,Anniversary,September,16,4,19,1272,5088,Monday,Friday,5088
+589,C093,40,3,09-12-2023,21:23:17,19-12-2023,01:21:34,Lucknow,Anniversary,December,21,10,1,1923,5769,Saturday,Tuesday,5769
+590,C006,23,2,19-01-2023,21:36:21,23-01-2023,05:53:50,Durg,Anniversary,January,21,4,5,1098,2196,Thursday,Monday,2196
+594,C060,20,2,26-05-2023,21:26:03,01-06-2023,04:59:28,Varanasi,Anniversary,May,21,6,4,697,1394,Friday,Thursday,1394
+603,C079,8,3,29-05-2023,05:23:57,07-06-2023,15:14:45,Tiruvottiyur,Anniversary,May,5,9,15,252,756,Monday,Wednesday,756
+609,C024,25,5,27-10-2023,11:08:56,28-10-2023,23:46:55,Hazaribagh,Anniversary,October,11,1,23,1202,6010,Friday,Saturday,6010
+620,C074,67,3,11-07-2023,22:23:01,18-07-2023,01:24:50,Chapra,Anniversary,July,22,7,1,1374,4122,Tuesday,Tuesday,4122
+626,C024,40,5,23-09-2023,15:12:58,27-09-2023,08:14:22,Bellary,Anniversary,September,15,4,8,1923,9615,Saturday,Wednesday,9615
+641,C063,15,4,18-05-2023,23:59:56,26-05-2023,19:14:55,South Dumdum,Anniversary,May,23,8,19,1488,5952,Thursday,Friday,5952
+644,C050,67,1,01-09-2023,14:54:36,11-09-2023,11:21:18,Parbhani,Anniversary,September,14,10,11,1374,1374,Friday,Monday,1374
+663,C094,15,2,11-10-2023,14:47:08,12-10-2023,22:32:05,Hosur,Anniversary,October,14,1,22,1488,2976,Wednesday,Thursday,2976
+670,C057,23,5,01-06-2023,05:47:59,10-06-2023,05:09:00,Bhopal,Anniversary,June,5,9,5,1098,5490,Thursday,Saturday,5490
+679,C019,56,2,05-10-2023,17:29:19,14-10-2023,12:58:06,Durg,Anniversary,October,17,9,12,1272,2544,Thursday,Saturday,2544
+680,C018,56,1,02-12-2023,22:20:31,08-12-2023,02:33:10,Avadi,Anniversary,December,22,6,2,1272,1272,Saturday,Friday,1272
+681,C098,23,5,29-01-2023,10:08:06,05-02-2023,12:01:28,Nashik,Anniversary,January,10,7,12,1098,5490,Sunday,Sunday,5490
+688,C015,54,2,28-01-2023,19:02:07,30-01-2023,13:51:22,Lucknow,Anniversary,January,19,2,13,1236,2472,Saturday,Monday,2472
+694,C018,23,2,15-04-2023,19:26:27,21-04-2023,16:58:51,Kozhikode,Anniversary,April,19,6,16,1098,2196,Saturday,Friday,2196
+706,C091,67,2,26-04-2023,05:35:11,04-05-2023,13:13:10,Madurai,Anniversary,April,5,8,13,1374,2748,Wednesday,Thursday,2748
+710,C087,54,5,22-05-2023,01:33:03,29-05-2023,01:43:52,Jalna,Anniversary,May,1,7,1,1236,6180,Monday,Monday,6180
+717,C059,67,5,25-06-2023,06:18:32,26-06-2023,23:20:48,Yamunanagar,Anniversary,June,6,1,23,1374,6870,Sunday,Monday,6870
+737,C068,46,5,14-09-2023,07:35:50,17-09-2023,13:37:05,Bhilwara,Anniversary,September,7,3,13,758,3790,Thursday,Sunday,3790
+749,C099,12,2,19-06-2023,13:13:17,24-06-2023,03:37:13,Nanded,Anniversary,June,13,5,3,672,1344,Monday,Saturday,1344
+751,C084,23,5,10-04-2023,07:12:34,15-04-2023,01:52:34,Gandhidham,Anniversary,April,7,5,1,1098,5490,Monday,Saturday,5490
+758,C043,40,5,16-10-2023,09:12:26,20-10-2023,03:46:58,Ajmer,Anniversary,October,9,4,3,1923,9615,Monday,Friday,9615
+770,C080,25,3,29-05-2023,00:20:57,07-06-2023,09:39:12,Pallavaram,Anniversary,May,0,9,9,1202,3606,Monday,Wednesday,3606
+778,C033,61,4,10-05-2023,03:58:40,13-05-2023,11:57:17,Raebareli,Anniversary,May,3,3,11,810,3240,Wednesday,Saturday,3240
+781,C084,40,2,27-09-2023,15:26:58,05-10-2023,19:39:28,Muzaffarnagar,Anniversary,September,15,8,19,1923,3846,Wednesday,Thursday,3846
+784,C042,56,2,02-06-2023,08:25:52,07-06-2023,06:16:19,Bhalswa Jahangir Pur,Anniversary,June,8,5,6,1272,2544,Friday,Wednesday,2544
+796,C002,61,4,05-05-2023,07:53:26,14-05-2023,08:08:25,Rajkot,Anniversary,May,7,9,8,810,3240,Friday,Sunday,3240
+798,C043,30,5,17-12-2023,17:35:18,26-12-2023,01:52:09,Sultan Pur Majra,Anniversary,December,17,9,1,751,3755,Sunday,Tuesday,3755
+812,C058,40,2,12-12-2023,17:19:49,14-12-2023,01:28:32,Ongole,Anniversary,December,17,2,1,1923,3846,Tuesday,Thursday,3846
+815,C098,61,3,29-09-2023,07:08:13,08-10-2023,14:46:18,Bhatpara,Anniversary,September,7,9,14,810,2430,Friday,Sunday,2430
+824,C097,46,4,06-05-2023,07:56:11,07-05-2023,15:23:52,Muzaffarpur,Anniversary,May,7,1,15,758,3032,Saturday,Sunday,3032
+825,C044,25,5,30-06-2023,10:50:24,01-07-2023,18:08:04,Nellore,Anniversary,June,10,1,18,1202,6010,Friday,Saturday,6010
+828,C044,8,3,24-10-2023,16:47:01,01-11-2023,22:18:58,Gwalior,Anniversary,October,16,8,22,252,756,Tuesday,Wednesday,756
+830,C007,46,2,12-01-2023,19:18:53,15-01-2023,05:04:21,Indore,Anniversary,January,19,3,5,758,1516,Thursday,Sunday,1516
+831,C079,56,5,24-05-2023,18:41:33,03-06-2023,19:06:17,Rajahmundry,Anniversary,May,18,10,19,1272,6360,Wednesday,Saturday,6360
+840,C031,67,2,13-01-2023,19:19:35,16-01-2023,11:50:30,Tirunelveli,Anniversary,January,19,3,11,1374,2748,Friday,Monday,2748
+842,C085,46,2,29-12-2023,17:11:33,01-01-2024,02:27:46,Kulti,Anniversary,December,17,3,2,758,1516,Friday,Monday,1516
+863,C099,20,3,05-06-2023,09:28:04,15-06-2023,03:13:05,Jehanabad,Anniversary,June,9,10,3,697,2091,Monday,Thursday,2091
+871,C062,15,1,11-06-2023,06:05:30,15-06-2023,20:56:56,Secunderabad,Anniversary,June,6,4,20,1488,1488,Sunday,Thursday,1488
+894,C092,54,4,14-10-2023,14:05:43,21-10-2023,23:10:21,Proddatur,Anniversary,October,14,7,23,1236,4944,Saturday,Saturday,4944
+896,C053,46,1,05-04-2023,04:13:55,10-04-2023,12:50:15,Haldia,Anniversary,April,4,5,12,758,758,Wednesday,Monday,758
+907,C046,30,2,19-04-2023,21:36:41,25-04-2023,11:12:03,Burhanpur,Anniversary,April,21,6,11,751,1502,Wednesday,Tuesday,1502
+913,C092,56,5,10-12-2023,18:39:24,12-12-2023,05:37:07,Bharatpur,Anniversary,December,18,2,5,1272,6360,Sunday,Tuesday,6360
+917,C052,12,3,24-01-2023,05:56:54,29-01-2023,11:04:23,Bareilly,Anniversary,January,5,5,11,672,2016,Tuesday,Sunday,2016
+921,C078,23,4,18-09-2023,13:52:40,23-09-2023,07:22:26,Ghaziabad,Anniversary,September,13,5,7,1098,4392,Monday,Saturday,4392
+922,C009,23,1,14-12-2023,09:16:24,18-12-2023,08:03:37,Mahbubnagar,Anniversary,December,9,4,8,1098,1098,Thursday,Monday,1098
+930,C083,61,3,03-06-2023,15:52:31,07-06-2023,19:41:15,Gangtok,Anniversary,June,15,4,19,810,2430,Saturday,Wednesday,2430
+946,C050,17,4,02-12-2023,11:07:29,09-12-2023,17:43:17,Ratlam,Anniversary,December,11,7,17,1899,7596,Saturday,Saturday,7596
+953,C076,40,1,03-09-2023,00:26:01,04-09-2023,07:33:50,Varanasi,Anniversary,September,0,1,7,1923,1923,Sunday,Monday,1923
+957,C038,23,1,15-12-2023,01:56:38,17-12-2023,21:07:55,Kanpur,Anniversary,December,1,2,21,1098,1098,Friday,Sunday,1098
+959,C098,40,1,21-12-2023,01:54:46,26-12-2023,21:05:45,Raebareli,Anniversary,December,1,5,21,1923,1923,Thursday,Tuesday,1923
+962,C028,17,5,29-09-2023,11:55:53,01-10-2023,16:15:08,Kalyan-Dombivli,Anniversary,September,11,2,16,1899,9495,Friday,Sunday,9495
+970,C020,54,4,13-04-2023,03:26:33,21-04-2023,21:37:17,Siliguri,Anniversary,April,3,8,21,1236,4944,Thursday,Friday,4944
+972,C026,30,2,30-04-2023,01:34:34,02-05-2023,05:27:14,Ujjain,Anniversary,April,1,2,5,751,1502,Sunday,Tuesday,1502
+976,C017,17,2,19-05-2023,07:11:09,20-05-2023,08:38:28,Raichur,Anniversary,May,7,1,8,1899,3798,Friday,Saturday,3798
+980,C067,12,5,21-09-2023,20:35:26,30-09-2023,00:43:39,Bijapur,Anniversary,September,20,9,0,672,3360,Thursday,Saturday,3360
+981,C014,46,2,02-04-2023,20:01:08,03-04-2023,20:21:37,Dehradun,Anniversary,April,20,1,20,758,1516,Sunday,Monday,1516
+993,C082,61,5,08-10-2023,21:34:06,14-10-2023,15:55:58,Kishanganj,Anniversary,October,21,6,15,810,4050,Sunday,Saturday,4050
+996,C077,25,5,13-05-2023,06:55:09,19-05-2023,05:41:20,Faridabad,Anniversary,May,6,6,5,1202,6010,Saturday,Friday,6010
